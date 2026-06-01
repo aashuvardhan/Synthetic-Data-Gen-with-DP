@@ -203,19 +203,6 @@ All 8 columns pass all applicable tests.
 
 ---
 
-## Compiling the report
-
-The full technical report is in `privacy_report.tex`. To compile on any system with LaTeX:
-
-```bash
-pdflatex privacy_report.tex
-pdflatex privacy_report.tex   # run twice for correct TOC page numbers
-```
-
-The three PNG files (`private_synthetic_data_*.png`) must be in the same directory as the `.tex` file before compiling.
-
----
-
 ## Dependencies
 
 ```bash
