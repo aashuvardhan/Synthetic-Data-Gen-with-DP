@@ -1,0 +1,1501 @@
+age,annual_income,purchase_amount,gender,city,product_category,payment_method,is_returned
+53.154995,56206.62,97.51902,Female,Houston,Clothing,PayPal,False
+61.807774,115782.92,1073.0388,Male,Phoenix,Sports,Credit Card,False
+22.939785,59645.863,0.0,Other,Philadelphia,Beauty,Debit Card,True
+27.88355,71383.5,500.6989,Female,Chicago,Electronics,PayPal,False
+25.36151,59009.05,553.51697,Female,Los Angeles,Electronics,UPI,True
+38.910656,141368.98,496.8481,Female,San Diego,Sports,Credit Card,False
+19.18713,106593.4,329.76202,Other,San Jose,Home,Debit Card,True
+21.06272,113516.77,116.49736,Female,Houston,Clothing,Credit Card,False
+39.614384,91119.62,526.0861,Female,Chicago,Electronics,PayPal,True
+60.822617,70568.62,361.58157,Other,Los Angeles,Sports,Debit Card,True
+22.072641,84584.58,336.99417,Male,Houston,Clothing,PayPal,False
+33.43589,140066.66,112.356766,Female,San Antonio,Sports,Credit Card,True
+55.97994,152507.95,1109.3401,Male,San Jose,Beauty,Credit Card,True
+29.308279,45051.254,139.46194,Other,Los Angeles,Electronics,Credit Card,False
+41.393246,61714.363,551.11554,Male,Dallas,Electronics,Credit Card,True
+26.907637,35062.42,304.42975,Other,San Antonio,Clothing,Credit Card,False
+43.81375,107598.35,1092.1985,Other,Houston,Beauty,Credit Card,True
+57.977158,154445.25,886.84515,Male,Philadelphia,Electronics,PayPal,False
+29.855959,94750.484,73.12837,Other,Phoenix,Beauty,Credit Card,True
+53.031235,85716.25,658.3716,Female,Los Angeles,Clothing,Debit Card,False
+29.56567,95590.195,941.42926,Other,New York,Beauty,PayPal,False
+19.322493,63662.844,378.66962,Female,New York,Electronics,PayPal,True
+30.193003,129966.72,721.08746,Male,Philadelphia,Clothing,Debit Card,True
+52.957626,50821.24,65.68152,Other,Los Angeles,Clothing,Debit Card,False
+45.040413,122187.79,786.8137,Other,Dallas,Electronics,Credit Card,True
+37.54666,38214.984,152.78505,Other,Dallas,Clothing,Debit Card,True
+18.18946,118158.52,839.464,Male,Philadelphia,Electronics,PayPal,True
+56.23978,71219.62,142.58339,Other,Houston,Beauty,Debit Card,False
+38.46328,128352.49,617.7639,Female,Houston,Electronics,UPI,True
+37.74743,75988.63,337.2257,Male,Los Angeles,Electronics,Credit Card,False
+63.296535,80283.8,572.28955,Male,Houston,Clothing,Debit Card,False
+25.796322,72760.36,152.01297,Female,Houston,Electronics,UPI,True
+19.422564,127941.61,1249.3749,Male,Los Angeles,Clothing,Debit Card,True
+49.74757,98173.375,302.20923,Female,New York,Clothing,UPI,False
+47.15696,65906.586,622.8295,Female,Phoenix,Sports,UPI,True
+29.598421,52339.35,147.3986,Male,San Jose,Beauty,Credit Card,False
+22.155312,29128.13,199.51584,Other,Dallas,Clothing,Credit Card,True
+26.387339,35831.168,268.13354,Other,Philadelphia,Sports,Debit Card,False
+55.394222,98686.305,72.51561,Female,Houston,Beauty,PayPal,False
+31.458256,113642.17,881.6177,Female,Phoenix,Sports,Debit Card,False
+46.717674,78372.06,655.329,Male,New York,Home,Credit Card,False
+49.321396,58548.547,253.86911,Male,New York,Beauty,Debit Card,False
+26.538689,40982.2,144.44208,Other,New York,Beauty,UPI,False
+63.454308,48364.387,355.2038,Male,Phoenix,Sports,Credit Card,True
+28.219316,66905.73,391.11588,Other,Philadelphia,Clothing,PayPal,True
+32.481495,150857.4,1234.3893,Male,Los Angeles,Beauty,Credit Card,True
+14.323432,85933.07,526.0564,Female,Houston,Electronics,UPI,True
+58.812786,33330.035,53.762177,Other,Chicago,Beauty,Credit Card,True
+53.098934,102998.07,109.71964,Male,New York,Home,UPI,True
+40.448463,53351.34,172.25049,Other,San Antonio,Home,UPI,True
+31.791487,147816.9,275.40164,Other,San Antonio,Sports,Debit Card,False
+44.376823,136633.55,815.31775,Female,San Diego,Home,Credit Card,True
+48.23627,145854.89,130.95816,Female,Houston,Clothing,Credit Card,False
+41.599434,135644.27,1062.0184,Male,Houston,Electronics,Debit Card,False
+32.72187,54255.215,510.86063,Female,Philadelphia,Beauty,UPI,False
+25.175877,48673.07,441.46747,Female,Chicago,Beauty,UPI,True
+21.772156,95501.336,431.55893,Other,Philadelphia,Home,PayPal,False
+55.826176,57928.56,228.76585,Other,San Antonio,Electronics,Debit Card,True
+40.296185,55978.78,350.80704,Other,San Jose,Home,Credit Card,False
+47.59731,84275.19,544.2387,Other,San Antonio,Home,Debit Card,True
+43.604,119941.54,1075.2369,Other,Chicago,Beauty,PayPal,True
+51.4086,134549.77,0.0,Female,Houston,Home,UPI,True
+43.25135,81383.055,645.9283,Other,San Diego,Clothing,Credit Card,False
+50.06632,115257.29,718.89435,Female,Los Angeles,Clothing,Credit Card,True
+30.950329,57583.13,19.990957,Male,San Diego,Beauty,Credit Card,False
+47.879402,149539.72,982.70026,Male,San Antonio,Sports,UPI,True
+24.40373,114689.05,691.7738,Male,San Antonio,Home,Debit Card,True
+26.008312,103352.17,361.5828,Male,San Diego,Beauty,UPI,False
+44.482826,113070.82,813.29553,Male,San Diego,Clothing,Credit Card,True
+66.023544,136967.58,811.0514,Male,Houston,Beauty,Debit Card,True
+28.991846,78542.92,148.92764,Female,San Jose,Home,PayPal,False
+49.726906,45710.152,114.70151,Male,San Antonio,Clothing,Debit Card,True
+38.622246,99709.484,369.47595,Female,Phoenix,Electronics,Debit Card,False
+44.227654,137464.66,990.43634,Other,New York,Beauty,UPI,False
+17.713682,61527.777,341.64764,Other,San Antonio,Beauty,Debit Card,True
+32.004803,58639.973,295.7896,Male,Dallas,Home,UPI,True
+41.945778,26036.314,430.69144,Other,New York,Home,Debit Card,True
+55.38822,107953.92,225.83109,Female,Chicago,Electronics,PayPal,True
+42.090435,56459.945,281.21094,Male,San Antonio,Home,UPI,False
+19.245209,102339.88,104.88605,Other,New York,Home,Debit Card,True
+60.115295,38364.504,313.94333,Other,Houston,Electronics,Debit Card,True
+29.273996,89284.0,581.4504,Other,San Diego,Sports,PayPal,True
+36.66597,112532.7,640.72363,Other,Los Angeles,Beauty,PayPal,True
+53.11297,34864.652,322.95114,Other,San Antonio,Electronics,Debit Card,True
+55.034428,126729.65,983.16547,Male,Los Angeles,Home,Credit Card,True
+36.58197,99059.99,478.32712,Other,Los Angeles,Beauty,PayPal,True
+43.098637,124270.41,592.4112,Female,Philadelphia,Sports,Debit Card,False
+30.092455,123860.055,678.3915,Male,Phoenix,Beauty,UPI,True
+50.496403,134286.4,1026.2395,Female,Philadelphia,Clothing,Credit Card,False
+43.73833,60083.457,428.72183,Other,Chicago,Clothing,PayPal,False
+48.672173,134300.75,462.1841,Female,Houston,Home,PayPal,False
+36.537914,154227.12,911.8407,Female,Dallas,Electronics,Credit Card,True
+36.708553,109833.51,453.28806,Other,Houston,Sports,UPI,False
+19.034777,39686.902,157.31941,Female,Houston,Home,PayPal,False
+52.302208,99581.195,229.39108,Other,Chicago,Electronics,PayPal,True
+34.543068,67984.28,93.15403,Male,San Jose,Sports,PayPal,True
+22.16497,55489.77,435.30954,Male,Dallas,Beauty,PayPal,True
+29.430826,69452.73,122.478676,Male,Phoenix,Beauty,Debit Card,False
+16.719584,37288.617,138.1964,Other,Chicago,Sports,UPI,False
+47.11879,74103.42,284.53967,Female,Philadelphia,Clothing,Credit Card,False
+48.074314,43213.094,287.79114,Female,San Diego,Electronics,Credit Card,True
+26.6141,141327.28,730.29535,Female,Los Angeles,Clothing,UPI,False
+55.699066,97113.516,844.5812,Other,Dallas,Sports,UPI,False
+37.803886,143443.02,878.6934,Female,San Antonio,Home,UPI,True
+34.50112,114698.84,245.15465,Other,Los Angeles,Clothing,Debit Card,True
+53.55478,39097.984,151.22731,Other,Phoenix,Beauty,UPI,False
+21.698637,49022.543,181.57515,Male,San Diego,Electronics,Credit Card,False
+59.073147,107909.59,522.9576,Male,Los Angeles,Electronics,Debit Card,True
+31.65443,127824.08,207.7348,Other,Chicago,Home,PayPal,False
+30.552824,91049.02,598.117,Other,San Antonio,Beauty,UPI,True
+21.114214,112826.81,85.39563,Female,San Jose,Beauty,UPI,True
+26.475796,62207.387,404.62045,Female,Chicago,Electronics,PayPal,True
+27.636818,100279.484,455.95096,Female,San Antonio,Home,UPI,False
+27.666313,101950.945,297.66458,Female,Philadelphia,Electronics,Debit Card,False
+42.27691,128932.945,681.6055,Other,Houston,Beauty,UPI,False
+27.411465,67259.875,58.470345,Male,San Antonio,Beauty,Credit Card,False
+47.804817,50333.65,0.085057735,Female,San Jose,Sports,UPI,True
+33.739365,73006.49,338.656,Male,San Jose,Sports,UPI,True
+56.751717,114660.71,804.30646,Other,Chicago,Sports,UPI,False
+25.021143,63634.918,524.24725,Male,San Diego,Electronics,Debit Card,False
+60.27556,67981.95,304.71646,Other,Dallas,Sports,UPI,True
+45.87475,90598.68,92.45107,Male,New York,Beauty,Debit Card,True
+37.885025,128247.93,998.0654,Female,Chicago,Beauty,PayPal,True
+35.367954,136997.2,330.2847,Other,San Jose,Sports,PayPal,True
+45.25129,90728.14,380.18762,Other,Los Angeles,Sports,UPI,True
+33.702984,121105.98,195.8545,Female,Houston,Sports,UPI,False
+63.33533,82968.16,689.0946,Female,San Antonio,Electronics,UPI,True
+29.23444,93299.71,878.8441,Female,Los Angeles,Sports,Credit Card,False
+11.217208,101928.05,250.08725,Other,Chicago,Home,UPI,False
+40.548397,107347.625,706.3759,Other,Los Angeles,Home,UPI,False
+57.45212,128171.83,1137.0728,Female,Dallas,Electronics,Credit Card,True
+52.458164,117131.64,1180.3456,Male,Los Angeles,Sports,Credit Card,True
+39.46556,55622.227,358.8195,Male,New York,Home,Credit Card,False
+43.422215,85044.48,248.31143,Male,Dallas,Sports,Debit Card,True
+35.376263,56125.875,256.4581,Female,Chicago,Clothing,UPI,True
+33.667305,96496.17,606.9833,Other,Los Angeles,Beauty,UPI,True
+59.799747,99045.21,203.15506,Female,Philadelphia,Beauty,PayPal,False
+65.371956,50246.414,256.8992,Female,San Antonio,Sports,UPI,True
+33.84695,101391.234,565.898,Other,Phoenix,Clothing,Credit Card,False
+37.99588,40990.887,56.981678,Other,New York,Beauty,UPI,False
+33.6224,102459.74,740.26654,Other,Houston,Beauty,PayPal,True
+52.78405,47005.13,432.46136,Other,New York,Home,PayPal,True
+55.662025,79553.625,662.3055,Male,Dallas,Home,UPI,True
+32.485386,48736.723,375.78598,Female,Philadelphia,Beauty,PayPal,True
+37.18121,138323.39,1146.6046,Female,Phoenix,Home,Credit Card,False
+20.866743,49600.566,345.4836,Male,Phoenix,Beauty,PayPal,True
+42.278164,29471.277,107.451965,Other,San Diego,Home,PayPal,True
+62.104046,76874.016,37.648018,Female,San Diego,Clothing,PayPal,True
+52.246506,35247.84,347.33792,Other,Phoenix,Sports,Credit Card,True
+21.566673,38297.797,159.06462,Female,San Diego,Beauty,Debit Card,True
+42.904408,83093.61,330.42047,Female,Dallas,Electronics,Debit Card,True
+58.452255,35034.91,304.1077,Other,San Antonio,Electronics,Credit Card,False
+29.89925,89439.59,445.29947,Male,Dallas,Clothing,PayPal,False
+24.451431,79076.59,194.24008,Male,Houston,Electronics,Debit Card,True
+27.366234,118077.0,420.74112,Male,San Antonio,Clothing,Credit Card,True
+52.05381,64569.03,452.5688,Male,Dallas,Clothing,Credit Card,True
+29.285744,41378.53,282.92963,Female,Los Angeles,Electronics,PayPal,True
+41.119564,125695.66,1077.8868,Other,Philadelphia,Electronics,Debit Card,False
+21.172846,51549.812,251.0304,Other,Los Angeles,Electronics,UPI,False
+39.09891,108272.75,542.0499,Female,Los Angeles,Clothing,PayPal,True
+45.732212,104528.3,998.6595,Male,Dallas,Beauty,UPI,True
+46.55869,129986.4,1035.8795,Male,Los Angeles,Home,Debit Card,False
+31.118979,83772.086,426.81314,Other,Chicago,Home,UPI,True
+42.296616,94020.125,571.0483,Male,Los Angeles,Beauty,Debit Card,False
+49.317383,149066.98,150.00128,Male,San Diego,Sports,UPI,True
+40.952026,78915.76,235.54433,Female,Philadelphia,Clothing,UPI,False
+21.313522,132479.55,188.55887,Female,Dallas,Home,Debit Card,False
+55.548958,109212.01,601.9681,Other,San Jose,Sports,PayPal,False
+59.87619,38728.637,423.02893,Other,Houston,Sports,Credit Card,True
+27.82219,114359.91,590.3215,Male,Philadelphia,Beauty,PayPal,False
+33.79505,114483.37,167.49527,Female,Chicago,Beauty,Credit Card,True
+10.723712,48685.395,50.87764,Male,San Antonio,Home,Debit Card,True
+21.198963,108737.72,680.3236,Male,Chicago,Electronics,Credit Card,True
+41.6815,86657.81,413.4244,Male,Philadelphia,Home,Debit Card,True
+22.001831,54694.668,87.988434,Other,New York,Electronics,PayPal,False
+61.216995,90729.695,499.36462,Other,San Antonio,Home,Debit Card,True
+43.72507,73039.84,158.2108,Female,San Jose,Beauty,PayPal,True
+34.598305,81635.23,729.8851,Other,Chicago,Sports,Debit Card,True
+27.779364,128370.75,446.9716,Female,Los Angeles,Clothing,UPI,False
+24.072416,42991.156,181.84624,Other,Houston,Beauty,Credit Card,True
+44.893238,147047.7,1161.541,Female,New York,Sports,Credit Card,False
+44.9159,97397.484,485.83517,Other,Philadelphia,Home,Credit Card,True
+17.891195,66977.125,0.0,Other,New York,Home,Credit Card,False
+28.973162,63868.223,264.95972,Female,San Diego,Electronics,UPI,False
+63.26481,61863.832,120.24914,Male,Chicago,Beauty,Credit Card,True
+38.610527,83444.65,456.56863,Other,Houston,Electronics,UPI,True
+31.724602,72253.23,128.84628,Male,San Jose,Clothing,UPI,False
+50.60818,129103.57,646.0417,Female,San Antonio,Beauty,Credit Card,False
+29.17216,99110.01,99.148,Female,Dallas,Beauty,UPI,False
+51.51442,39323.844,104.76926,Other,New York,Electronics,UPI,False
+22.58987,111922.336,956.81665,Male,Dallas,Beauty,UPI,False
+54.38263,108763.875,942.4472,Other,New York,Sports,Credit Card,False
+57.230045,93119.13,571.5431,Male,San Diego,Electronics,UPI,True
+49.444927,110737.625,286.33316,Male,San Diego,Sports,Debit Card,False
+44.26134,67729.945,347.3026,Female,San Jose,Home,PayPal,True
+38.817764,36555.164,158.65106,Other,Philadelphia,Home,Debit Card,False
+22.41245,98368.11,692.51544,Female,Phoenix,Sports,Debit Card,True
+39.375553,103168.45,501.77347,Female,New York,Beauty,UPI,False
+54.168022,87410.945,0.0,Female,Chicago,Clothing,PayPal,False
+31.44041,73209.83,677.36975,Other,Houston,Home,Credit Card,True
+61.59759,75323.06,401.11417,Other,Chicago,Sports,UPI,True
+24.201962,55107.168,461.6055,Female,Chicago,Sports,Credit Card,False
+39.4856,110426.22,836.1334,Female,San Jose,Home,UPI,True
+54.446774,46297.23,200.31963,Female,Houston,Home,UPI,True
+36.143936,143205.84,539.49384,Other,Los Angeles,Beauty,UPI,False
+29.635786,34708.906,194.57515,Other,San Diego,Beauty,Credit Card,False
+20.880087,128430.234,381.8107,Female,Dallas,Clothing,UPI,True
+31.478964,123965.66,514.63605,Female,New York,Sports,Credit Card,False
+42.448025,69873.27,234.57654,Male,Philadelphia,Clothing,UPI,False
+21.098066,131848.98,1059.225,Other,Chicago,Electronics,UPI,False
+48.285583,121777.45,1002.24536,Other,San Diego,Beauty,UPI,True
+19.968294,59469.14,257.59607,Male,Dallas,Beauty,UPI,True
+39.90471,72517.516,230.24667,Male,Houston,Sports,Credit Card,True
+27.97796,136460.39,1273.7435,Other,Dallas,Electronics,Debit Card,True
+35.720394,84433.41,0.0,Female,Houston,Beauty,Credit Card,True
+55.98025,135377.86,167.88364,Female,Los Angeles,Sports,Credit Card,False
+44.031754,32492.826,180.66272,Female,Philadelphia,Electronics,PayPal,True
+38.935482,63831.906,174.93904,Other,Los Angeles,Home,PayPal,True
+21.31782,76246.586,355.2301,Other,Chicago,Sports,UPI,False
+26.090431,42489.633,228.00749,Other,Los Angeles,Sports,Debit Card,True
+30.450119,141426.14,142.08502,Female,Houston,Sports,Debit Card,False
+17.296469,124653.125,801.1378,Female,Philadelphia,Home,PayPal,False
+23.039347,125939.71,372.86346,Female,San Antonio,Beauty,PayPal,True
+52.791523,103824.45,512.4617,Other,Phoenix,Electronics,PayPal,True
+44.360928,109968.32,1064.4362,Male,Dallas,Home,PayPal,True
+20.569782,69986.65,504.4951,Female,San Diego,Beauty,UPI,True
+66.744606,82396.74,298.76785,Other,Houston,Beauty,PayPal,False
+55.78998,142531.06,1262.198,Male,San Jose,Home,PayPal,True
+26.189426,143503.23,815.22217,Other,New York,Home,Credit Card,True
+60.354366,73123.71,266.4294,Male,New York,Beauty,Debit Card,False
+45.215256,92097.695,372.04013,Male,Phoenix,Clothing,PayPal,False
+41.585167,131723.6,322.34528,Female,Phoenix,Clothing,Debit Card,False
+55.48639,47068.17,72.19525,Female,San Diego,Beauty,PayPal,False
+29.62506,62756.86,0.0,Other,Phoenix,Clothing,UPI,True
+60.711197,146324.33,1379.8615,Other,Philadelphia,Clothing,PayPal,False
+26.937086,115695.02,833.24615,Female,Los Angeles,Home,Debit Card,True
+24.803879,112875.72,244.845,Female,New York,Home,Credit Card,False
+50.02848,46685.3,368.63092,Male,New York,Home,Debit Card,False
+47.81647,74945.54,626.4981,Other,New York,Clothing,PayPal,True
+42.85047,99074.305,630.72266,Female,Phoenix,Beauty,Debit Card,True
+45.954895,104728.4,765.2656,Male,San Antonio,Beauty,Debit Card,False
+34.255375,43744.434,184.04355,Male,Houston,Electronics,PayPal,True
+36.914913,59064.85,260.5657,Female,Phoenix,Clothing,PayPal,True
+53.14192,95530.5,276.96646,Other,Chicago,Clothing,PayPal,True
+12.9366665,55216.54,41.576588,Other,San Jose,Home,Debit Card,False
+55.20183,114884.695,43.17558,Female,Dallas,Home,UPI,False
+33.11675,117887.02,1049.8518,Female,Phoenix,Home,PayPal,True
+32.306023,77534.74,299.0414,Female,Phoenix,Home,Debit Card,True
+59.473545,83390.484,549.49835,Female,San Antonio,Clothing,PayPal,True
+44.023003,55002.05,262.24017,Male,Los Angeles,Clothing,Debit Card,False
+16.453472,68182.66,653.0905,Other,San Antonio,Clothing,Credit Card,False
+54.30423,133815.94,307.9156,Male,Phoenix,Beauty,UPI,False
+35.781815,72879.66,0.0,Female,Dallas,Electronics,Debit Card,True
+52.634552,76363.12,46.94102,Female,Chicago,Beauty,UPI,False
+50.648323,55218.523,185.04242,Male,Chicago,Home,PayPal,False
+37.44638,42971.953,174.10277,Other,Dallas,Electronics,PayPal,False
+30.200502,89628.48,361.69034,Female,Phoenix,Beauty,Credit Card,True
+26.205967,81770.625,430.34683,Female,Dallas,Home,Debit Card,True
+55.25091,101258.01,405.25366,Male,San Jose,Home,Debit Card,False
+48.048836,89861.625,431.7365,Other,Dallas,Clothing,Debit Card,False
+27.513336,66834.55,601.8844,Other,New York,Beauty,UPI,False
+65.070496,108745.46,344.9764,Other,Philadelphia,Clothing,Credit Card,False
+59.117737,67560.12,605.1485,Other,New York,Beauty,UPI,False
+59.448975,135162.69,1222.5164,Other,San Jose,Clothing,Credit Card,True
+33.24071,81913.695,639.47266,Other,San Antonio,Clothing,Debit Card,True
+53.41302,119455.33,96.69038,Other,San Diego,Electronics,Credit Card,True
+43.508358,133701.69,293.74115,Other,San Jose,Electronics,Credit Card,True
+52.84314,55216.22,254.25877,Male,Los Angeles,Beauty,UPI,False
+28.375818,89054.75,846.0254,Female,Dallas,Clothing,PayPal,False
+32.171528,56625.63,233.02786,Female,Houston,Home,PayPal,True
+62.32714,123309.65,619.6769,Female,Houston,Clothing,PayPal,False
+27.996284,112621.02,634.10693,Female,San Antonio,Home,UPI,False
+23.318329,80612.39,756.5026,Male,Houston,Home,PayPal,False
+32.126217,54252.754,351.07852,Male,Dallas,Home,Debit Card,True
+57.45566,128708.2,774.3346,Male,New York,Clothing,Debit Card,True
+23.749222,47796.703,291.0906,Other,San Diego,Beauty,Debit Card,False
+56.66357,48978.004,140.52875,Female,San Diego,Clothing,PayPal,False
+37.693882,118047.85,67.33819,Male,San Diego,Clothing,Credit Card,True
+47.795475,148187.67,1211.1068,Male,San Antonio,Sports,Credit Card,False
+20.030636,42266.324,159.2902,Other,Los Angeles,Home,Debit Card,False
+61.454582,91626.555,534.72656,Female,Los Angeles,Sports,PayPal,True
+27.404123,76949.7,56.618362,Female,Los Angeles,Beauty,UPI,False
+34.81115,108860.22,726.27734,Male,Chicago,Electronics,UPI,True
+44.51635,66980.92,132.39505,Other,Los Angeles,Beauty,Debit Card,False
+36.860146,62177.715,11.7284155,Female,Houston,Sports,PayPal,False
+36.842194,110492.83,748.9902,Male,Phoenix,Electronics,Debit Card,False
+56.125927,52242.79,204.91081,Male,San Antonio,Beauty,PayPal,True
+60.65631,63117.41,267.8565,Male,Houston,Home,UPI,False
+47.52136,128617.33,1396.1512,Female,San Diego,Beauty,UPI,True
+34.121204,127985.34,832.16235,Female,Dallas,Sports,PayPal,True
+52.256626,32382.432,0.0,Male,Dallas,Clothing,Debit Card,False
+40.66324,144227.08,871.1421,Other,Houston,Beauty,UPI,True
+52.56833,88885.805,783.51337,Female,San Diego,Beauty,UPI,False
+51.2875,39608.86,160.36655,Other,Phoenix,Electronics,UPI,False
+18.858969,108851.1,331.4431,Male,San Jose,Electronics,UPI,True
+45.900143,34128.14,313.59668,Male,San Diego,Beauty,PayPal,False
+29.810349,132636.92,289.30075,Male,San Antonio,Home,UPI,False
+42.16045,67925.08,59.344246,Other,Chicago,Clothing,PayPal,True
+29.22999,87272.32,337.691,Male,Houston,Electronics,UPI,False
+43.240112,105662.305,968.5568,Female,Dallas,Electronics,Debit Card,False
+39.800262,83153.234,165.4559,Male,Los Angeles,Beauty,UPI,True
+35.899864,70907.77,231.9396,Female,Los Angeles,Electronics,UPI,True
+65.48214,39394.63,129.41806,Other,Dallas,Sports,Debit Card,True
+44.7006,74051.94,186.46625,Other,San Jose,Home,PayPal,True
+37.07397,135433.17,241.94443,Other,Dallas,Clothing,UPI,True
+34.765873,38140.312,253.41856,Other,Chicago,Clothing,PayPal,False
+42.61243,110085.88,635.81146,Female,Philadelphia,Sports,UPI,True
+40.269787,74310.16,183.46973,Other,San Diego,Electronics,Debit Card,False
+59.3512,40428.008,306.43817,Male,Dallas,Sports,Credit Card,True
+38.177563,56215.582,211.96405,Other,San Diego,Beauty,PayPal,True
+52.734985,119126.65,905.5969,Male,Phoenix,Sports,Credit Card,True
+29.000187,142979.69,1058.9353,Other,Dallas,Clothing,UPI,True
+37.302284,65674.77,565.76495,Female,Houston,Clothing,Credit Card,False
+32.66287,114990.76,519.58875,Male,San Antonio,Clothing,PayPal,True
+40.251072,75629.21,422.80017,Other,Phoenix,Home,PayPal,False
+49.511127,47215.156,292.22772,Other,San Diego,Home,Debit Card,False
+42.07475,92436.43,44.511208,Other,Chicago,Electronics,PayPal,True
+34.131824,53780.703,50.417015,Male,San Antonio,Home,Debit Card,False
+54.071865,128722.84,1080.4062,Other,Phoenix,Sports,UPI,False
+22.435457,119671.16,841.8586,Male,Dallas,Beauty,UPI,True
+49.98639,108019.78,1148.9983,Other,New York,Electronics,Credit Card,True
+46.481937,57655.492,426.49216,Male,Los Angeles,Clothing,UPI,False
+49.042336,94756.95,424.94125,Other,San Jose,Sports,UPI,True
+15.972212,107351.51,527.9498,Male,Los Angeles,Electronics,PayPal,False
+23.772457,88127.72,761.4261,Other,Los Angeles,Clothing,Credit Card,True
+53.041275,46734.2,46.554447,Male,Dallas,Home,UPI,False
+45.95795,49269.16,221.73232,Male,San Diego,Home,Debit Card,False
+33.908463,128978.27,945.26556,Male,New York,Electronics,UPI,True
+44.637604,99697.13,374.9725,Other,New York,Clothing,Credit Card,False
+42.48915,119762.12,829.16833,Other,Dallas,Beauty,UPI,True
+33.834057,151794.05,1300.0953,Other,Dallas,Home,Credit Card,True
+57.11046,67236.06,592.75323,Other,New York,Clothing,PayPal,False
+28.341078,99144.08,155.3698,Other,San Antonio,Electronics,PayPal,True
+52.409977,76118.625,240.61914,Female,Dallas,Home,UPI,True
+60.64764,136746.83,151.82376,Other,Philadelphia,Clothing,Credit Card,False
+33.503117,143823.11,168.4355,Female,San Jose,Beauty,UPI,False
+21.943577,107677.8,282.06052,Female,Phoenix,Clothing,PayPal,False
+43.304794,55297.535,328.40152,Other,San Antonio,Electronics,UPI,True
+64.15979,45471.17,116.271484,Female,San Antonio,Clothing,UPI,True
+39.47401,26801.588,0.0,Female,San Diego,Home,PayPal,True
+26.364721,41665.17,143.24611,Other,Dallas,Beauty,UPI,True
+24.481874,37755.055,139.79703,Other,San Antonio,Beauty,PayPal,False
+13.253729,76365.664,291.00955,Male,Dallas,Clothing,Debit Card,True
+28.041414,48617.773,66.899216,Female,San Diego,Clothing,Debit Card,True
+45.0604,87415.96,374.5194,Female,Los Angeles,Home,Credit Card,False
+60.36773,113020.766,682.1913,Other,Houston,Sports,UPI,True
+33.322414,36690.348,191.88495,Other,New York,Sports,PayPal,False
+42.801937,83373.14,673.90295,Male,San Jose,Clothing,PayPal,True
+56.18396,138884.92,183.28687,Female,Dallas,Electronics,PayPal,True
+64.09997,121701.266,692.8947,Male,Houston,Beauty,UPI,False
+41.724182,79807.17,127.66872,Other,Chicago,Beauty,Debit Card,True
+67.018524,94532.01,754.1509,Male,San Diego,Sports,Credit Card,False
+63.18186,99411.555,160.94366,Female,Dallas,Home,PayPal,False
+39.82307,45319.465,192.52051,Other,San Diego,Beauty,PayPal,False
+51.53853,47775.508,184.83192,Female,San Antonio,Beauty,Credit Card,True
+35.6608,109437.98,733.51697,Male,San Jose,Electronics,UPI,False
+45.92109,48696.52,26.414896,Female,Houston,Beauty,Debit Card,False
+45.524635,59213.598,487.6188,Other,San Jose,Beauty,Debit Card,False
+21.8232,100151.56,136.09402,Other,San Antonio,Electronics,Debit Card,False
+34.320263,76966.02,383.60187,Male,Dallas,Home,PayPal,False
+24.5942,90344.875,539.5282,Female,Houston,Clothing,PayPal,True
+63.619244,52775.934,0.0,Female,Los Angeles,Clothing,Debit Card,True
+53.38797,52074.742,190.61188,Female,San Diego,Electronics,UPI,False
+24.954432,129912.08,701.3003,Female,New York,Beauty,Debit Card,False
+54.659916,85106.51,384.4339,Other,Houston,Clothing,PayPal,False
+49.172745,59995.863,340.27823,Other,Chicago,Sports,UPI,True
+48.859234,33689.67,96.70469,Female,Dallas,Home,UPI,False
+55.33342,53362.035,187.99019,Female,Phoenix,Clothing,PayPal,True
+60.15461,47581.496,89.64508,Male,San Jose,Electronics,Debit Card,False
+58.224594,48168.766,174.80629,Male,San Jose,Beauty,UPI,False
+28.961752,108731.46,610.93304,Other,Chicago,Clothing,Debit Card,False
+33.145115,52378.88,158.7931,Female,San Jose,Beauty,PayPal,True
+49.69754,47748.605,160.26735,Female,San Diego,Home,Credit Card,False
+58.179985,102927.555,301.80252,Female,San Diego,Electronics,UPI,True
+28.04293,72131.625,113.857574,Male,Chicago,Home,Debit Card,True
+53.441616,122554.55,1080.3479,Female,Dallas,Beauty,Credit Card,True
+39.639595,127515.04,737.81854,Other,Los Angeles,Electronics,UPI,True
+35.51304,42414.074,236.7076,Other,Los Angeles,Home,Credit Card,False
+35.51886,70426.74,441.2484,Male,San Diego,Electronics,PayPal,False
+68.80062,102713.055,768.3834,Other,San Jose,Beauty,Debit Card,True
+27.707441,124317.24,225.12787,Male,San Jose,Clothing,Credit Card,True
+38.13541,128061.055,234.29672,Other,Phoenix,Beauty,Credit Card,False
+44.088634,53568.145,375.87436,Other,Chicago,Clothing,Debit Card,True
+64.1768,80424.7,581.72766,Male,Phoenix,Sports,Debit Card,False
+57.077667,83818.234,268.83102,Male,Los Angeles,Clothing,PayPal,False
+44.224293,92297.78,369.73755,Male,Los Angeles,Sports,PayPal,True
+50.767727,69583.29,183.60599,Female,Houston,Home,PayPal,False
+33.480236,79939.23,472.9733,Male,San Jose,Sports,PayPal,True
+23.281847,55711.043,184.73112,Female,New York,Electronics,Debit Card,False
+53.724445,40883.055,289.94626,Female,Houston,Clothing,PayPal,False
+41.462234,30254.117,240.71187,Female,Los Angeles,Electronics,UPI,True
+40.451576,113563.2,509.64557,Female,Houston,Sports,UPI,False
+18.373451,68571.47,234.05971,Male,San Jose,Clothing,UPI,True
+19.74756,117582.31,604.38934,Male,San Antonio,Clothing,UPI,True
+33.33941,72149.2,114.878136,Male,San Jose,Home,PayPal,False
+29.074596,93563.94,741.66565,Female,Chicago,Electronics,Credit Card,True
+43.769176,61503.668,454.32208,Male,Chicago,Sports,Credit Card,False
+24.144785,143728.33,267.33514,Male,San Jose,Home,PayPal,False
+36.497177,126255.11,211.70181,Female,Los Angeles,Clothing,PayPal,False
+62.211216,139544.11,431.75916,Other,San Jose,Electronics,Credit Card,False
+34.973785,121997.52,19.660095,Female,San Diego,Sports,UPI,True
+49.193863,96373.01,572.4049,Other,Phoenix,Beauty,PayPal,True
+44.061157,126492.805,1367.1228,Female,Philadelphia,Beauty,Debit Card,False
+23.139126,34687.85,154.6857,Male,Phoenix,Clothing,Credit Card,True
+47.973473,112989.76,393.8564,Other,Chicago,Beauty,PayPal,False
+27.724457,103845.48,509.68057,Male,Philadelphia,Sports,Credit Card,False
+25.390356,110374.01,932.66724,Other,Dallas,Electronics,UPI,True
+31.471397,135313.66,755.74084,Male,New York,Clothing,Credit Card,False
+23.880964,70740.21,421.09204,Male,Phoenix,Clothing,Credit Card,True
+60.877895,49974.086,328.21106,Male,New York,Home,PayPal,True
+46.06665,48739.73,363.54654,Male,Dallas,Home,PayPal,False
+36.88606,101384.516,0.0,Other,San Jose,Electronics,UPI,False
+48.158134,89402.0,101.418495,Other,New York,Home,Debit Card,False
+21.371204,143067.75,756.46466,Other,Los Angeles,Beauty,Credit Card,True
+18.070786,67677.07,35.05645,Male,San Antonio,Beauty,Debit Card,True
+52.744526,144529.94,1299.1786,Other,San Antonio,Clothing,Debit Card,False
+43.73555,138686.23,354.9817,Male,San Jose,Home,PayPal,False
+24.083689,62277.836,415.6601,Male,San Antonio,Clothing,UPI,False
+36.115772,76618.67,99.103676,Other,New York,Electronics,Debit Card,False
+52.904343,130462.93,439.9316,Other,Houston,Electronics,PayPal,False
+32.629036,130222.695,1065.3624,Other,San Jose,Electronics,UPI,True
+33.913147,71785.61,301.8039,Other,New York,Home,Credit Card,False
+61.29103,136713.31,470.99216,Male,Dallas,Clothing,UPI,False
+20.350088,56524.895,269.2322,Male,New York,Clothing,UPI,False
+46.1864,127889.09,307.3576,Female,Dallas,Home,UPI,True
+53.528572,92595.71,181.32843,Other,Los Angeles,Clothing,PayPal,False
+39.845684,122792.3,476.55286,Other,San Diego,Home,UPI,False
+31.87484,53417.33,312.65817,Male,San Jose,Electronics,Debit Card,True
+26.054808,87446.78,597.36084,Female,Los Angeles,Electronics,PayPal,True
+41.672043,65828.5,355.21127,Other,Los Angeles,Clothing,PayPal,True
+33.383064,147890.23,1270.7146,Male,Los Angeles,Clothing,PayPal,True
+50.929714,42464.336,355.31116,Female,San Antonio,Home,PayPal,False
+61.62516,120939.93,774.16406,Other,San Diego,Electronics,Debit Card,True
+14.364958,51725.38,416.15765,Female,Chicago,Sports,UPI,False
+62.416218,115247.19,1043.1095,Male,San Jose,Beauty,UPI,True
+22.781439,52051.168,25.086472,Other,San Diego,Clothing,Credit Card,False
+18.655247,40050.754,355.90173,Other,Chicago,Beauty,UPI,True
+50.099766,40006.414,177.70985,Female,Chicago,Home,Debit Card,True
+33.735394,68403.15,334.10696,Male,New York,Beauty,Credit Card,False
+46.56482,68668.305,637.18774,Male,New York,Electronics,PayPal,False
+23.196749,80356.4,116.7576,Other,Houston,Beauty,Credit Card,False
+67.99089,82018.55,353.1124,Female,Chicago,Beauty,Debit Card,False
+30.869493,53993.28,68.24471,Other,Houston,Sports,PayPal,True
+44.335556,83119.79,401.53857,Other,Dallas,Clothing,Credit Card,True
+66.119606,71485.12,238.48264,Other,New York,Clothing,UPI,False
+33.00327,66748.555,177.35248,Male,Philadelphia,Beauty,Credit Card,False
+58.84749,100462.19,194.25171,Male,San Diego,Beauty,UPI,False
+48.45069,33855.0,82.92796,Male,San Jose,Clothing,Credit Card,True
+16.572807,74831.3,685.4396,Male,Chicago,Home,Debit Card,False
+17.425621,35402.945,56.119854,Other,New York,Electronics,PayPal,True
+38.26154,118987.7,1059.2054,Female,San Jose,Sports,PayPal,False
+39.27682,46293.688,468.76294,Female,San Jose,Clothing,UPI,True
+61.304173,111614.32,691.46124,Male,Philadelphia,Clothing,Debit Card,False
+42.7208,132715.17,753.7323,Male,Chicago,Clothing,PayPal,False
+25.176485,114621.99,410.87418,Other,Phoenix,Home,Debit Card,True
+24.555859,64590.16,340.68225,Male,New York,Home,Debit Card,True
+61.855804,133502.89,745.4367,Female,San Diego,Electronics,PayPal,True
+29.764383,116059.92,213.84042,Female,Los Angeles,Electronics,PayPal,False
+47.561157,127712.08,604.96106,Male,Dallas,Electronics,UPI,False
+53.641273,81576.85,199.10332,Male,San Jose,Beauty,Debit Card,False
+21.810562,129000.36,963.28253,Male,New York,Home,UPI,True
+26.58637,68846.84,72.40202,Female,Chicago,Electronics,Credit Card,False
+53.46111,122052.734,905.2597,Other,San Jose,Electronics,Debit Card,False
+34.282246,39938.91,0.0,Male,Houston,Sports,PayPal,False
+37.33545,64381.492,101.597176,Female,San Jose,Beauty,UPI,True
+24.139156,90031.766,88.56089,Male,Houston,Beauty,Debit Card,True
+26.262281,31160.277,213.72397,Other,Phoenix,Electronics,UPI,True
+44.121056,134517.34,555.95404,Female,Houston,Beauty,UPI,True
+38.99285,140713.16,642.79834,Other,San Diego,Electronics,PayPal,False
+51.52924,67373.47,149.47194,Female,San Jose,Home,Debit Card,True
+18.716558,113704.72,326.5898,Other,San Antonio,Sports,Debit Card,True
+47.83075,139004.81,713.3929,Other,San Diego,Beauty,Debit Card,True
+36.8102,46206.31,183.08228,Other,New York,Beauty,PayPal,True
+47.27734,62679.652,459.93317,Male,San Jose,Home,Debit Card,True
+46.208874,41478.707,423.19577,Female,Houston,Clothing,UPI,False
+67.98144,158538.95,1283.1022,Male,Phoenix,Beauty,UPI,False
+29.851421,84146.54,486.50458,Male,San Jose,Sports,UPI,True
+43.36686,47596.293,40.695663,Other,New York,Electronics,PayPal,True
+34.298084,158392.48,764.30396,Female,San Antonio,Home,UPI,False
+49.4257,106894.95,361.59872,Female,New York,Sports,Debit Card,False
+14.89679,78067.234,706.2708,Other,Houston,Clothing,Debit Card,False
+37.248512,29542.016,110.90042,Female,Phoenix,Home,UPI,True
+31.502186,36587.984,71.64781,Other,San Diego,Home,PayPal,True
+53.307495,113744.92,172.4713,Male,Chicago,Home,UPI,False
+18.724752,92314.55,817.9164,Male,Phoenix,Beauty,UPI,True
+54.676647,128056.07,800.1682,Male,Chicago,Clothing,Credit Card,True
+14.433323,99434.12,52.48195,Female,San Diego,Home,Credit Card,False
+50.614674,86613.9,493.47784,Male,New York,Clothing,Credit Card,False
+61.06396,79362.484,159.81358,Other,San Jose,Clothing,Debit Card,True
+29.305145,145510.17,1258.8253,Other,San Antonio,Home,Credit Card,False
+18.420918,50158.625,349.8997,Other,Houston,Clothing,Debit Card,False
+60.57417,78238.76,465.51477,Other,New York,Beauty,Credit Card,True
+53.822353,120628.414,28.40085,Female,San Jose,Home,PayPal,True
+38.19525,137986.62,359.6956,Female,Houston,Sports,UPI,False
+56.242233,45768.254,90.34826,Female,San Diego,Beauty,PayPal,True
+54.787437,42791.39,175.30644,Male,New York,Home,Debit Card,False
+60.315327,139114.56,1113.56,Male,Phoenix,Clothing,Debit Card,True
+20.410658,127544.74,1328.3684,Other,Chicago,Home,Debit Card,True
+65.8119,83032.47,859.64716,Female,San Antonio,Sports,UPI,True
+57.66392,110520.055,1097.7563,Male,Philadelphia,Clothing,UPI,False
+49.901627,77414.47,541.5313,Other,Dallas,Clothing,Credit Card,False
+47.16242,52072.258,397.66147,Male,Dallas,Electronics,PayPal,False
+38.27341,89456.19,379.93787,Male,San Antonio,Clothing,PayPal,False
+56.75742,60577.63,288.5722,Male,Chicago,Home,UPI,False
+32.068043,88347.43,171.2072,Other,Los Angeles,Beauty,PayPal,False
+20.48757,143484.83,1287.0315,Female,Los Angeles,Home,UPI,True
+30.494528,60753.36,620.253,Male,New York,Sports,Debit Card,True
+40.80962,115143.64,95.32294,Male,Phoenix,Clothing,Debit Card,True
+47.585567,125470.836,963.0429,Male,New York,Beauty,Debit Card,False
+43.41901,81022.83,604.4208,Female,New York,Beauty,Debit Card,False
+16.168062,121122.89,546.01483,Male,Dallas,Electronics,Credit Card,True
+32.531593,114061.22,953.45044,Other,New York,Electronics,UPI,False
+32.808075,39871.164,384.83566,Female,Phoenix,Sports,Debit Card,True
+61.909706,51753.477,120.36568,Female,Philadelphia,Clothing,Debit Card,False
+16.60642,50673.945,161.21239,Male,Houston,Electronics,Debit Card,True
+37.019768,110156.82,863.9093,Female,San Antonio,Home,Credit Card,True
+58.955406,60104.875,260.8524,Female,New York,Electronics,UPI,False
+45.97901,40510.867,128.977,Female,Chicago,Clothing,UPI,True
+46.807484,104497.33,74.71211,Other,Philadelphia,Beauty,Debit Card,False
+27.607079,103984.21,678.4124,Male,Los Angeles,Electronics,Credit Card,True
+31.307442,116869.67,124.35653,Female,Dallas,Clothing,PayPal,False
+34.049606,39368.125,61.864,Female,Houston,Sports,PayPal,False
+25.061274,40651.73,214.2504,Other,San Jose,Sports,UPI,True
+54.12674,28797.396,242.36737,Male,Phoenix,Clothing,UPI,False
+31.772284,86485.93,0.0,Female,Houston,Home,Debit Card,False
+45.208797,118831.98,142.84085,Male,San Jose,Clothing,Debit Card,False
+40.332035,153495.84,736.9934,Male,Chicago,Electronics,PayPal,False
+27.102266,57227.88,219.14961,Other,Phoenix,Sports,Credit Card,False
+59.250805,154430.98,1272.6809,Male,Dallas,Electronics,UPI,True
+43.05796,143459.92,887.92645,Male,San Diego,Clothing,UPI,False
+52.833416,34424.4,221.44757,Other,Chicago,Sports,Debit Card,True
+49.18554,85172.836,36.57372,Female,Phoenix,Electronics,UPI,False
+55.757275,98773.0,781.48334,Other,San Antonio,Sports,Debit Card,False
+40.520695,130181.11,763.4016,Female,Chicago,Beauty,Debit Card,True
+62.04872,52818.72,159.25041,Female,San Diego,Clothing,Credit Card,False
+42.416183,62311.53,290.56967,Male,New York,Beauty,Debit Card,True
+47.936768,124051.555,308.61786,Female,San Diego,Beauty,UPI,True
+45.817818,89756.84,276.80203,Other,Philadelphia,Beauty,UPI,False
+19.253666,108532.03,629.42334,Male,San Jose,Beauty,Credit Card,True
+55.72041,112848.266,463.5262,Other,Philadelphia,Sports,Debit Card,False
+42.605183,102275.02,805.3419,Other,San Antonio,Sports,PayPal,True
+21.292562,135858.05,996.9883,Male,Philadelphia,Electronics,Credit Card,False
+62.67947,50219.67,45.359493,Male,San Diego,Beauty,UPI,True
+33.719765,121381.58,114.332466,Male,New York,Clothing,UPI,True
+63.60892,73753.64,143.55666,Female,New York,Beauty,Credit Card,False
+48.166702,123125.02,649.49884,Other,Chicago,Beauty,Credit Card,True
+49.96211,84729.4,672.7257,Female,Dallas,Clothing,Credit Card,False
+22.313734,68947.41,417.38925,Other,Philadelphia,Beauty,Credit Card,False
+55.716053,120293.484,1106.7775,Female,Los Angeles,Home,PayPal,False
+27.174376,39677.418,125.59445,Other,Dallas,Electronics,Debit Card,True
+34.520576,66793.875,501.85748,Female,Philadelphia,Clothing,Debit Card,False
+62.920303,44238.016,272.45874,Other,San Diego,Beauty,UPI,False
+45.668354,127166.59,67.99887,Male,New York,Sports,Debit Card,True
+56.663097,36894.273,107.49791,Female,Dallas,Home,Debit Card,True
+63.25808,132318.08,388.6968,Other,New York,Home,UPI,True
+59.39668,131734.02,889.6606,Other,Philadelphia,Beauty,UPI,True
+50.48944,138863.56,1025.838,Other,Phoenix,Electronics,Debit Card,False
+47.16432,132538.39,1302.861,Female,Chicago,Clothing,Credit Card,True
+32.03015,110806.38,813.33325,Female,Los Angeles,Home,Debit Card,True
+39.170326,94251.695,214.89516,Other,San Jose,Clothing,Debit Card,True
+42.931335,23367.184,73.091125,Other,Phoenix,Clothing,Debit Card,False
+16.073288,94063.25,447.7464,Other,New York,Clothing,Debit Card,False
+60.87645,119844.4,901.6012,Female,Los Angeles,Sports,PayPal,True
+58.886925,75079.59,372.8882,Male,Dallas,Electronics,Debit Card,False
+50.327705,91639.92,479.67435,Female,Houston,Sports,PayPal,False
+38.83376,69550.266,187.0977,Female,Dallas,Beauty,Credit Card,False
+58.805843,74763.85,384.12677,Other,San Jose,Beauty,Debit Card,False
+59.775326,140695.94,465.49374,Male,San Antonio,Home,PayPal,True
+53.5656,126200.96,1006.8565,Other,Dallas,Sports,UPI,True
+29.899143,139460.89,811.8171,Female,Dallas,Electronics,Debit Card,True
+53.210697,110824.82,16.567034,Male,Houston,Clothing,UPI,True
+34.89763,100403.3,872.9608,Other,Chicago,Electronics,Debit Card,True
+48.19403,125087.42,330.65,Male,Los Angeles,Electronics,Credit Card,False
+54.54136,48653.293,346.47327,Female,Phoenix,Sports,Credit Card,False
+59.998993,88776.24,372.70306,Other,Los Angeles,Electronics,Credit Card,True
+68.027794,114791.69,163.8773,Male,Philadelphia,Beauty,Credit Card,False
+58.5942,70671.04,422.4106,Female,San Diego,Sports,UPI,True
+46.964783,47755.184,209.49265,Male,San Antonio,Beauty,PayPal,True
+36.044132,143781.22,1165.6917,Other,Philadelphia,Electronics,Credit Card,False
+23.666546,32844.652,168.65323,Female,Dallas,Beauty,Debit Card,False
+34.50166,105135.625,857.9429,Female,Philadelphia,Clothing,UPI,True
+34.184555,59537.293,200.72961,Female,San Antonio,Electronics,Debit Card,True
+52.94028,90264.63,629.3155,Male,Phoenix,Electronics,PayPal,True
+30.496552,122177.3,673.5886,Female,Los Angeles,Clothing,Debit Card,True
+38.47549,118451.19,213.01619,Male,Philadelphia,Sports,UPI,True
+53.755764,113493.484,347.83762,Other,San Diego,Beauty,PayPal,False
+40.855984,51831.535,83.852745,Male,Houston,Sports,PayPal,True
+23.45621,127100.93,824.5481,Female,Dallas,Sports,PayPal,False
+50.974483,100573.39,142.00563,Other,San Antonio,Beauty,PayPal,True
+48.45076,56724.613,175.24905,Male,Los Angeles,Electronics,Debit Card,True
+56.52419,113007.86,588.979,Female,Houston,Electronics,PayPal,True
+63.84767,142451.25,155.41397,Female,Houston,Beauty,Debit Card,True
+46.532333,96530.086,556.73645,Male,Philadelphia,Clothing,Credit Card,False
+55.08884,128876.914,349.96558,Male,New York,Sports,Credit Card,True
+57.59155,105391.95,668.7973,Female,San Diego,Home,Credit Card,True
+48.52378,48587.312,19.137217,Female,Houston,Home,Debit Card,False
+40.419964,98657.24,875.7831,Male,New York,Clothing,Credit Card,False
+65.233376,71028.45,371.8208,Other,Chicago,Home,UPI,True
+52.47897,114590.055,980.7111,Male,San Antonio,Home,UPI,True
+45.314293,87029.96,296.5404,Female,San Diego,Sports,Credit Card,True
+47.866695,60245.28,100.11534,Other,Phoenix,Clothing,Credit Card,True
+28.61354,77032.74,422.10574,Male,Houston,Sports,PayPal,True
+44.392918,105356.836,489.34262,Male,San Jose,Clothing,PayPal,True
+36.732998,50616.055,61.086998,Other,New York,Beauty,Credit Card,True
+16.194954,54544.42,44.663692,Male,Dallas,Sports,Credit Card,False
+19.982645,58682.33,199.9465,Female,New York,Clothing,Debit Card,False
+51.466057,57186.71,330.61237,Male,Philadelphia,Beauty,PayPal,True
+59.748066,128938.01,404.80948,Female,San Jose,Beauty,Credit Card,True
+41.688602,68717.62,93.26218,Male,San Antonio,Beauty,PayPal,True
+54.310318,51883.15,195.91994,Other,San Jose,Electronics,Credit Card,True
+43.207237,114262.56,244.43126,Other,Philadelphia,Electronics,UPI,False
+40.207546,159593.36,23.860247,Other,San Antonio,Clothing,UPI,False
+39.886425,103994.53,946.543,Other,San Jose,Sports,UPI,False
+28.648897,97216.7,561.2018,Male,Dallas,Beauty,Debit Card,False
+32.67761,33871.695,146.56264,Male,Los Angeles,Beauty,PayPal,True
+37.670567,119695.59,92.8871,Female,San Antonio,Home,PayPal,True
+41.629967,115876.4,798.65326,Female,Dallas,Sports,PayPal,True
+54.793446,78312.58,689.6001,Female,Dallas,Beauty,UPI,True
+41.384563,102335.266,724.069,Other,Los Angeles,Beauty,PayPal,False
+65.289734,52557.25,345.53152,Other,Los Angeles,Clothing,PayPal,True
+19.290152,48340.86,272.425,Female,Dallas,Beauty,Debit Card,False
+38.606674,117722.02,50.17537,Other,Chicago,Sports,Credit Card,True
+22.496069,74281.55,152.54144,Female,San Jose,Electronics,PayPal,False
+56.623425,128871.71,623.7373,Other,San Jose,Electronics,Debit Card,False
+46.96853,47535.258,72.57717,Other,Los Angeles,Home,Debit Card,False
+55.565548,92364.96,430.35422,Male,Phoenix,Beauty,Credit Card,False
+28.330544,125701.18,0.0,Male,New York,Electronics,UPI,False
+61.330128,71508.49,406.82965,Male,Dallas,Home,PayPal,False
+46.202065,75504.984,591.3086,Other,San Jose,Clothing,Debit Card,False
+34.79708,99932.29,1047.7834,Other,San Antonio,Beauty,Credit Card,False
+25.716557,76484.31,433.71628,Other,San Antonio,Beauty,PayPal,False
+32.171017,126952.05,639.1373,Other,Chicago,Beauty,PayPal,False
+39.231342,100332.0,610.9898,Male,Philadelphia,Sports,Debit Card,True
+45.06371,48238.92,152.47154,Female,Houston,Clothing,PayPal,False
+36.684677,96228.89,415.97885,Other,Phoenix,Clothing,PayPal,True
+43.48926,127100.58,873.853,Female,Los Angeles,Beauty,Debit Card,False
+35.0181,76318.93,267.5563,Other,Phoenix,Clothing,UPI,False
+62.63675,65080.336,24.534578,Female,Phoenix,Sports,Credit Card,True
+30.743141,143876.9,1041.1567,Male,Los Angeles,Electronics,Credit Card,False
+53.140728,35699.58,234.05952,Other,New York,Sports,Credit Card,True
+42.91804,151227.72,1404.6691,Other,Phoenix,Electronics,Debit Card,False
+36.69568,47337.793,474.84943,Male,San Diego,Beauty,UPI,True
+47.14828,43380.156,226.13605,Female,Chicago,Sports,Credit Card,False
+35.91046,124094.11,35.569885,Other,Phoenix,Sports,Debit Card,False
+39.7758,109587.22,982.6785,Male,Dallas,Sports,Debit Card,False
+46.409103,113071.375,277.83307,Male,San Diego,Beauty,Debit Card,False
+62.58281,124525.41,498.3007,Other,Chicago,Sports,Credit Card,True
+52.815525,119598.305,264.3182,Male,Phoenix,Sports,UPI,True
+29.78524,72672.96,456.04333,Other,Chicago,Sports,Credit Card,True
+46.968647,98649.75,369.84326,Male,New York,Beauty,PayPal,True
+38.49729,61058.19,339.80878,Other,Los Angeles,Sports,Credit Card,False
+20.113352,61485.914,530.1526,Female,Phoenix,Sports,PayPal,False
+36.4714,64971.023,388.77386,Other,Philadelphia,Clothing,PayPal,True
+39.887913,146103.33,917.7246,Other,Houston,Home,Debit Card,False
+43.281105,74438.56,497.18265,Female,San Diego,Electronics,UPI,False
+44.27996,105984.99,996.9504,Male,Philadelphia,Home,UPI,True
+24.140713,56073.258,204.55737,Female,Philadelphia,Home,UPI,True
+34.25265,141371.72,609.07355,Male,San Jose,Beauty,PayPal,False
+24.27823,53468.004,401.27,Male,Houston,Home,Credit Card,True
+30.824903,82597.07,135.39034,Male,San Diego,Beauty,PayPal,True
+43.45105,95542.445,619.912,Male,Los Angeles,Sports,Debit Card,True
+66.775826,156364.27,660.68665,Female,Houston,Electronics,UPI,True
+24.362041,102764.98,706.5112,Male,New York,Home,PayPal,True
+47.29059,152759.98,743.70593,Female,Dallas,Sports,Credit Card,False
+53.49698,98503.77,456.27988,Male,San Jose,Sports,PayPal,False
+47.750523,116574.26,260.1653,Other,San Diego,Home,Debit Card,False
+31.483465,63974.258,176.51643,Male,Dallas,Beauty,Credit Card,False
+47.55351,95544.09,0.0,Female,San Diego,Sports,Credit Card,False
+40.331512,113621.54,348.12604,Male,Dallas,Home,Debit Card,False
+53.88721,74082.016,398.1726,Male,San Jose,Home,Debit Card,False
+21.736677,84411.69,470.20966,Other,San Jose,Home,PayPal,False
+38.898685,51317.574,344.18796,Male,Los Angeles,Home,Credit Card,False
+54.86621,66596.2,296.15918,Female,San Diego,Clothing,PayPal,True
+28.905874,45350.15,387.83533,Female,Chicago,Electronics,PayPal,False
+30.106432,128806.27,579.49225,Male,Houston,Electronics,Debit Card,True
+52.438747,61409.664,252.9275,Male,San Diego,Home,UPI,True
+37.92891,34039.05,276.3427,Male,New York,Home,UPI,True
+52.54398,91094.48,237.98096,Female,San Antonio,Electronics,Credit Card,True
+47.242886,127077.39,1387.2823,Male,New York,Beauty,UPI,True
+51.76225,118551.586,1160.6677,Other,San Antonio,Clothing,PayPal,False
+55.556953,116117.086,36.112186,Other,Dallas,Beauty,PayPal,False
+55.818844,63647.574,148.26852,Male,Houston,Electronics,Credit Card,True
+32.509445,24943.457,72.079094,Female,San Jose,Clothing,UPI,True
+23.497633,46917.145,293.09094,Other,San Diego,Sports,Debit Card,False
+29.285177,66161.34,163.9323,Male,San Jose,Home,Credit Card,True
+42.564327,126668.76,262.10336,Other,Chicago,Clothing,UPI,True
+39.869095,110532.05,822.31396,Male,San Diego,Clothing,Credit Card,False
+40.295246,113793.72,111.21147,Male,San Diego,Sports,PayPal,False
+30.008877,108307.56,165.98917,Other,Philadelphia,Sports,PayPal,True
+22.462105,108372.164,44.841335,Female,Houston,Beauty,PayPal,False
+15.652768,144710.73,856.6297,Female,Dallas,Sports,UPI,True
+39.679253,130914.41,81.73629,Other,San Antonio,Clothing,UPI,True
+57.74566,66185.97,223.69255,Other,Philadelphia,Electronics,Credit Card,True
+17.641006,142369.78,1353.5614,Other,San Jose,Clothing,UPI,False
+27.195824,31564.615,15.559952,Other,San Antonio,Sports,PayPal,False
+40.370193,55735.926,328.66962,Male,New York,Clothing,UPI,True
+47.53946,126360.945,812.6896,Female,Dallas,Sports,PayPal,True
+56.139324,79855.29,378.80148,Female,Los Angeles,Home,Credit Card,True
+43.618435,36213.918,167.19388,Male,Houston,Sports,Debit Card,True
+46.881886,117590.55,187.7979,Other,Chicago,Beauty,UPI,True
+53.124245,112752.94,426.59326,Female,San Antonio,Electronics,Debit Card,True
+50.927326,79978.195,396.61258,Other,Chicago,Beauty,UPI,False
+38.485645,111083.09,1037.1544,Other,Philadelphia,Sports,UPI,False
+57.2149,56762.664,509.4946,Male,Los Angeles,Beauty,PayPal,True
+44.054127,93427.46,911.28076,Other,New York,Home,Credit Card,True
+39.975693,41470.71,80.503944,Male,Houston,Home,Credit Card,True
+53.634354,98992.734,636.136,Other,San Antonio,Electronics,Credit Card,False
+39.587143,58436.676,40.84672,Female,San Jose,Clothing,Debit Card,False
+32.440914,47902.19,220.93727,Other,Houston,Electronics,PayPal,False
+30.305405,95623.5,780.4828,Male,San Jose,Electronics,PayPal,True
+62.77993,138537.53,849.38403,Other,Los Angeles,Home,PayPal,False
+39.272385,138249.75,246.4486,Male,Houston,Electronics,UPI,True
+38.960007,80600.98,117.90342,Female,San Jose,Beauty,PayPal,True
+27.2208,58291.87,240.6176,Female,San Diego,Beauty,Credit Card,False
+44.180256,73668.14,681.12585,Male,New York,Home,Credit Card,True
+53.535374,120789.76,179.24036,Female,Phoenix,Electronics,UPI,False
+63.70127,53214.27,299.55118,Female,Chicago,Clothing,UPI,False
+63.61772,125874.766,312.14706,Other,Dallas,Clothing,Debit Card,True
+36.40535,142145.97,697.5879,Other,San Diego,Electronics,Credit Card,False
+44.45307,74580.93,296.71283,Female,Philadelphia,Beauty,Credit Card,False
+36.046837,77991.1,310.6864,Female,San Jose,Electronics,UPI,False
+31.282362,55550.848,422.67328,Male,Houston,Electronics,Credit Card,True
+53.294304,46180.14,450.62646,Female,New York,Clothing,Credit Card,False
+46.82143,89198.35,32.129642,Male,Dallas,Home,Debit Card,True
+49.98002,72477.41,594.1679,Male,New York,Sports,Credit Card,False
+27.050924,37840.625,177.76831,Female,Los Angeles,Home,UPI,False
+56.039974,32219.342,17.171831,Other,Phoenix,Home,Debit Card,True
+41.12406,135574.08,1230.3895,Male,Houston,Electronics,Credit Card,True
+45.634872,142156.5,793.6309,Male,San Diego,Clothing,PayPal,True
+18.935865,60802.29,486.3324,Female,Philadelphia,Sports,Credit Card,True
+18.362864,72469.2,439.28967,Female,Phoenix,Clothing,PayPal,True
+61.10598,57221.207,566.82324,Male,Dallas,Home,Debit Card,True
+40.36258,152989.5,553.11786,Male,San Antonio,Sports,Debit Card,False
+34.251297,105609.52,123.850494,Female,San Jose,Home,UPI,True
+30.702446,97730.46,91.287994,Other,Houston,Beauty,PayPal,True
+44.84683,154414.39,1550.1799,Female,San Jose,Clothing,PayPal,True
+51.666885,99585.86,972.02655,Male,San Antonio,Home,Debit Card,True
+35.81892,140002.98,1373.5789,Female,Chicago,Sports,Credit Card,True
+31.179531,43324.77,95.836105,Female,San Antonio,Beauty,PayPal,True
+55.48913,58258.402,162.51508,Male,San Antonio,Electronics,UPI,True
+48.962906,144617.56,941.82245,Other,Philadelphia,Clothing,Credit Card,False
+49.047943,36359.9,89.967926,Male,New York,Sports,Credit Card,True
+45.81551,67975.34,481.29065,Male,Houston,Beauty,Debit Card,False
+56.460384,97535.85,583.834,Other,New York,Sports,UPI,True
+58.4155,113752.76,849.1986,Other,Philadelphia,Sports,Credit Card,True
+49.72994,86783.71,684.5852,Male,San Jose,Beauty,UPI,True
+55.325756,85052.25,376.7002,Other,New York,Clothing,PayPal,False
+43.262447,152983.3,590.7439,Male,Houston,Clothing,UPI,False
+59.581623,38483.723,265.60587,Male,San Jose,Sports,Credit Card,True
+27.769669,124537.69,683.10925,Other,Los Angeles,Clothing,UPI,True
+39.376198,99739.99,139.35509,Other,San Jose,Home,UPI,True
+33.86702,72835.61,477.18542,Other,Chicago,Sports,Debit Card,True
+62.219242,86259.29,469.23816,Male,Dallas,Beauty,Debit Card,True
+51.425037,82822.05,54.590153,Female,Houston,Electronics,Debit Card,True
+25.847721,56720.223,284.77463,Male,Chicago,Home,PayPal,False
+40.994698,109791.78,273.55594,Male,Houston,Electronics,PayPal,True
+47.529804,81755.4,675.7765,Female,New York,Beauty,UPI,False
+35.660328,105872.35,806.51965,Female,San Antonio,Sports,UPI,True
+36.493153,150869.25,859.4239,Other,San Jose,Clothing,Credit Card,True
+28.33121,30091.826,256.47025,Male,Chicago,Sports,PayPal,False
+20.753183,43792.83,112.72574,Male,Chicago,Clothing,PayPal,False
+64.638115,94892.13,373.11194,Male,Dallas,Home,PayPal,False
+46.627533,132479.28,136.32707,Female,Chicago,Electronics,UPI,False
+26.147085,51290.387,296.5942,Female,Houston,Beauty,UPI,False
+57.58168,50722.625,339.99725,Other,San Jose,Clothing,PayPal,False
+60.128014,117756.46,795.0694,Other,Phoenix,Beauty,PayPal,True
+52.029816,116505.77,1111.6455,Female,San Jose,Beauty,UPI,False
+54.04474,140161.38,250.85591,Other,Houston,Home,Debit Card,True
+22.047262,39444.273,182.04953,Male,San Jose,Beauty,UPI,True
+25.703558,65663.305,232.23416,Other,Houston,Electronics,UPI,False
+35.254433,121073.62,115.78265,Female,Dallas,Beauty,PayPal,True
+20.198488,113162.25,361.87927,Female,San Jose,Beauty,Credit Card,False
+31.814644,66714.11,454.6077,Other,San Diego,Clothing,Credit Card,True
+54.142773,41026.45,248.87015,Other,Philadelphia,Sports,UPI,True
+53.02249,73346.76,335.7403,Other,Philadelphia,Beauty,UPI,False
+52.326126,126873.88,424.9547,Female,Los Angeles,Clothing,PayPal,True
+34.55847,71891.48,366.14676,Male,San Jose,Beauty,UPI,True
+56.671745,49801.87,357.15308,Female,Philadelphia,Electronics,UPI,False
+23.730667,97810.945,720.7271,Other,San Jose,Home,Debit Card,False
+28.014898,41078.25,144.60655,Female,Houston,Beauty,UPI,True
+48.51373,148901.67,797.5587,Other,Philadelphia,Sports,PayPal,False
+26.018837,126033.04,1095.6508,Other,Chicago,Sports,Credit Card,False
+41.7692,118751.52,969.09973,Male,New York,Sports,Credit Card,True
+39.829235,79804.77,784.90845,Male,Dallas,Home,UPI,True
+56.07198,143570.17,445.73386,Male,Houston,Home,PayPal,True
+52.684864,125539.61,177.49486,Male,Philadelphia,Home,Credit Card,False
+62.006416,106168.3,454.5885,Other,San Antonio,Home,Debit Card,True
+29.80463,114489.195,980.7745,Female,Houston,Beauty,Credit Card,False
+60.484234,131471.84,337.0686,Female,Phoenix,Clothing,Credit Card,False
+62.616405,55852.035,178.19049,Male,Los Angeles,Sports,Credit Card,True
+59.23926,101653.766,821.2309,Other,San Diego,Sports,PayPal,False
+40.370247,126072.67,290.60114,Other,Dallas,Electronics,UPI,True
+24.507095,125283.37,1133.7852,Female,San Diego,Clothing,Credit Card,False
+59.02179,108513.22,734.9534,Female,San Diego,Clothing,Debit Card,True
+50.151443,56145.24,601.3722,Other,San Antonio,Home,PayPal,False
+48.12403,19361.607,54.088108,Male,Los Angeles,Sports,UPI,False
+35.022106,123435.67,456.74252,Other,San Diego,Beauty,PayPal,False
+58.95705,130933.9,0.0,Other,Los Angeles,Home,UPI,False
+52.492466,81649.08,178.72974,Male,Dallas,Beauty,UPI,False
+24.8708,73171.39,155.99182,Female,San Jose,Sports,UPI,False
+57.696564,124505.96,301.99982,Other,Houston,Clothing,UPI,True
+57.20235,113606.74,604.7427,Female,Los Angeles,Sports,Debit Card,False
+45.309174,42716.035,348.7254,Other,San Diego,Sports,Debit Card,False
+57.155777,110720.945,210.00484,Male,Los Angeles,Beauty,Credit Card,False
+58.529434,43417.184,262.8995,Female,San Antonio,Beauty,UPI,False
+31.338602,111047.76,1070.543,Female,San Jose,Electronics,UPI,False
+28.899496,100621.305,37.33431,Other,San Antonio,Clothing,PayPal,True
+42.733025,145036.33,697.7774,Male,New York,Beauty,PayPal,True
+39.398464,132834.9,79.73777,Male,San Jose,Sports,UPI,False
+42.20629,71384.125,372.33484,Male,Chicago,Sports,Debit Card,False
+54.924187,76163.77,685.0864,Female,San Antonio,Clothing,Debit Card,False
+29.004065,44011.863,91.960075,Male,Chicago,Electronics,UPI,True
+26.536066,44001.184,279.38065,Other,Chicago,Beauty,PayPal,True
+49.013836,87034.78,288.84552,Other,San Antonio,Home,Debit Card,True
+49.005184,114576.125,0.0,Other,Houston,Beauty,UPI,True
+49.474785,103362.84,532.49536,Male,Los Angeles,Sports,PayPal,True
+54.6591,83122.49,862.852,Male,Chicago,Electronics,PayPal,False
+53.087772,36478.805,189.57645,Other,San Antonio,Clothing,UPI,True
+59.15327,114432.61,564.92303,Male,Phoenix,Electronics,Credit Card,False
+49.06004,120954.94,0.33811674,Female,Dallas,Sports,PayPal,True
+38.14186,135670.47,390.708,Male,New York,Beauty,PayPal,False
+16.258335,125937.59,541.3631,Male,San Jose,Electronics,PayPal,True
+36.183018,78034.33,138.96019,Other,San Jose,Home,PayPal,True
+54.44705,64910.875,193.6552,Other,San Jose,Electronics,Debit Card,False
+63.726093,90645.43,285.67953,Female,Phoenix,Clothing,UPI,True
+54.17541,160085.92,30.013443,Male,New York,Clothing,Debit Card,False
+40.637737,132139.03,572.8004,Female,San Antonio,Beauty,Debit Card,False
+17.579021,94149.71,283.94687,Female,New York,Home,UPI,False
+45.358665,64406.98,370.00284,Other,Houston,Sports,UPI,False
+31.475033,38168.633,239.113,Other,New York,Home,UPI,False
+56.80299,66789.61,624.7675,Other,San Antonio,Electronics,PayPal,False
+55.74157,111562.695,967.4882,Female,Los Angeles,Home,UPI,True
+56.985878,115068.84,477.15756,Female,Houston,Electronics,Debit Card,True
+60.9424,111619.42,1142.37,Female,San Diego,Electronics,UPI,True
+22.282602,86514.2,83.78107,Other,San Diego,Home,Debit Card,False
+31.695986,49371.465,4.42082,Other,Los Angeles,Electronics,Credit Card,True
+67.22174,54338.043,148.1433,Other,Chicago,Sports,PayPal,True
+68.08437,61201.855,145.8288,Female,Los Angeles,Sports,PayPal,False
+60.101433,145146.6,1064.5442,Other,Houston,Clothing,Credit Card,True
+17.10252,75975.61,471.32523,Female,San Diego,Home,Debit Card,False
+17.455866,92370.47,855.048,Male,San Jose,Sports,PayPal,False
+23.33641,44949.266,189.19325,Other,Houston,Beauty,UPI,False
+58.838566,54886.53,71.59005,Female,Los Angeles,Beauty,PayPal,False
+25.195618,145857.69,868.6913,Male,Chicago,Electronics,UPI,True
+34.165874,129566.26,520.369,Other,San Jose,Sports,Debit Card,False
+46.671642,91754.46,685.8127,Male,Dallas,Clothing,Credit Card,True
+57.2912,129441.875,1142.9059,Female,San Jose,Clothing,PayPal,True
+64.735,62970.9,347.49213,Other,Los Angeles,Beauty,PayPal,True
+50.1945,133316.33,1022.69104,Other,Houston,Clothing,Credit Card,False
+58.57483,52903.67,111.59831,Female,Houston,Home,UPI,True
+54.09897,86670.695,575.8076,Male,Los Angeles,Clothing,Credit Card,True
+50.953194,88248.29,43.503128,Other,Chicago,Beauty,UPI,False
+18.009205,69296.016,109.34006,Other,Phoenix,Sports,Credit Card,True
+63.016453,116871.44,647.0309,Other,Phoenix,Clothing,Debit Card,True
+23.01077,128998.35,202.91272,Other,Chicago,Clothing,PayPal,True
+57.93711,112798.6,83.576355,Male,New York,Home,Credit Card,False
+52.35384,57749.72,426.03732,Male,Los Angeles,Electronics,Debit Card,False
+29.26982,130798.375,251.71548,Other,San Antonio,Home,Credit Card,True
+31.445135,139222.7,1282.804,Male,San Jose,Beauty,Debit Card,False
+16.746233,44558.086,139.71754,Female,Chicago,Electronics,Debit Card,False
+33.318268,104911.73,111.12072,Male,Houston,Clothing,Debit Card,True
+46.652466,49499.3,35.898617,Male,Phoenix,Beauty,PayPal,True
+57.371044,141032.44,1201.1254,Female,San Diego,Clothing,UPI,False
+50.453575,99745.914,336.2034,Male,Houston,Electronics,Debit Card,False
+56.351246,33715.75,154.40082,Female,Philadelphia,Electronics,Credit Card,True
+26.519537,42934.203,467.36612,Other,San Jose,Home,Credit Card,False
+56.492477,119706.45,306.15445,Male,Houston,Electronics,Credit Card,False
+41.555904,50455.25,69.9068,Male,Houston,Home,PayPal,True
+40.862083,47462.32,227.7338,Female,San Jose,Electronics,PayPal,True
+32.529297,128986.0,52.90501,Male,San Diego,Electronics,Debit Card,False
+55.211723,111123.516,393.96213,Male,Philadelphia,Clothing,Credit Card,True
+33.498596,51266.547,46.94884,Female,Houston,Sports,Debit Card,True
+47.2902,86784.32,506.46808,Female,Los Angeles,Clothing,UPI,True
+42.526344,84753.09,157.58017,Other,Houston,Home,PayPal,True
+35.18457,51033.184,23.259256,Other,New York,Home,Debit Card,True
+44.024475,75314.97,237.01503,Female,Houston,Home,Debit Card,True
+51.198387,95835.945,821.8302,Male,Phoenix,Beauty,Credit Card,True
+51.903732,90690.94,786.9076,Female,New York,Sports,Debit Card,True
+34.146156,93558.83,699.22064,Other,Dallas,Beauty,UPI,False
+20.335814,33338.81,208.08441,Other,Dallas,Electronics,UPI,False
+49.251118,133705.45,1068.4164,Male,San Diego,Sports,Debit Card,True
+57.725388,140364.89,118.368355,Other,Los Angeles,Clothing,UPI,False
+31.590055,70146.445,535.1567,Male,New York,Sports,PayPal,False
+61.489925,91316.68,771.16907,Female,San Jose,Electronics,UPI,False
+24.735844,136142.36,1055.2306,Male,San Antonio,Sports,Credit Card,True
+38.813915,148024.02,920.5992,Other,San Antonio,Home,UPI,False
+68.783806,112237.46,648.2947,Male,Los Angeles,Sports,PayPal,False
+52.4241,149236.81,1035.9612,Other,Los Angeles,Sports,PayPal,False
+54.044094,37910.39,121.912056,Male,Dallas,Electronics,Debit Card,True
+39.293777,59974.73,263.85635,Other,San Diego,Beauty,Debit Card,True
+39.373493,78420.29,731.29407,Male,San Antonio,Sports,Credit Card,False
+43.20978,59394.6,286.81418,Other,Phoenix,Clothing,Credit Card,False
+48.076534,118856.164,463.89438,Other,San Antonio,Sports,UPI,True
+28.572477,81802.72,853.223,Other,Los Angeles,Electronics,Debit Card,False
+24.472534,120572.1,183.58229,Male,Houston,Clothing,PayPal,True
+39.328293,130743.45,755.97925,Male,San Diego,Beauty,Debit Card,False
+59.423088,123349.016,29.434793,Male,New York,Electronics,Debit Card,False
+45.518898,96402.09,386.47397,Other,Chicago,Home,UPI,False
+29.128967,98038.67,149.21829,Female,Chicago,Home,Debit Card,False
+41.279285,66640.84,504.11658,Other,Chicago,Sports,Credit Card,False
+27.309362,102829.66,934.5276,Other,Dallas,Beauty,Credit Card,True
+59.67091,111710.52,1050.6173,Other,Chicago,Home,Credit Card,True
+44.34746,110987.516,164.43706,Other,Dallas,Clothing,Debit Card,True
+57.615906,69420.06,633.4913,Male,Philadelphia,Sports,Debit Card,False
+27.268179,28395.01,129.46516,Female,Chicago,Sports,PayPal,True
+20.74852,109207.836,552.98883,Other,Phoenix,Home,UPI,False
+54.739693,111269.28,198.50775,Other,San Diego,Beauty,Debit Card,False
+17.365541,49751.48,323.24377,Male,Phoenix,Electronics,Credit Card,True
+42.69155,93111.09,128.90779,Male,San Jose,Clothing,Credit Card,False
+26.603249,27670.85,128.79544,Female,Los Angeles,Beauty,Credit Card,True
+48.05292,60422.023,415.3009,Other,New York,Home,UPI,False
+63.66791,140741.81,806.98126,Female,San Jose,Sports,PayPal,False
+41.671062,77591.836,627.90576,Other,Los Angeles,Clothing,Credit Card,False
+44.711956,57138.105,293.99664,Female,San Antonio,Electronics,Debit Card,False
+28.865404,58249.207,292.4826,Female,Philadelphia,Electronics,UPI,True
+16.873081,101434.7,550.6669,Female,Philadelphia,Beauty,UPI,True
+29.355488,67592.69,437.77072,Female,Dallas,Sports,Credit Card,True
+53.423935,59040.66,258.82568,Other,San Diego,Clothing,Credit Card,False
+26.432215,56951.95,279.9568,Other,San Diego,Electronics,Credit Card,False
+27.99293,86464.91,790.1,Other,Houston,Electronics,Credit Card,True
+49.928856,36699.543,242.4258,Female,San Jose,Sports,Credit Card,False
+60.07323,112009.69,441.60413,Other,Dallas,Home,PayPal,False
+33.878506,108814.67,186.58693,Other,San Diego,Clothing,PayPal,True
+26.115286,69968.25,342.10648,Other,Philadelphia,Beauty,Credit Card,False
+51.256783,113568.05,1174.8425,Other,Houston,Clothing,PayPal,True
+45.814373,81212.25,599.37006,Other,Dallas,Home,Debit Card,True
+49.64503,104975.02,498.1668,Other,New York,Clothing,PayPal,False
+52.56817,93348.445,142.82776,Female,Los Angeles,Sports,UPI,True
+34.26004,127503.56,1114.6941,Other,Dallas,Beauty,Debit Card,False
+43.18558,36580.777,59.894505,Male,New York,Electronics,PayPal,False
+61.252693,73364.016,225.94247,Female,San Jose,Beauty,PayPal,True
+63.486435,75920.164,11.509351,Female,Houston,Clothing,Credit Card,True
+42.31373,57610.715,40.20986,Male,San Antonio,Beauty,Credit Card,False
+48.583023,127493.77,561.43396,Female,Los Angeles,Electronics,Credit Card,False
+21.39108,149290.92,353.41052,Male,San Diego,Sports,Credit Card,True
+55.76969,66765.73,370.5661,Male,Chicago,Beauty,Credit Card,True
+21.376163,135906.28,1015.56384,Female,San Jose,Home,PayPal,True
+50.65867,130079.19,959.70667,Male,Dallas,Beauty,Credit Card,True
+54.89124,124259.49,158.37373,Female,Houston,Home,PayPal,True
+65.54352,39703.48,431.77042,Other,San Diego,Home,Debit Card,False
+59.900173,43581.797,31.310137,Female,San Antonio,Home,UPI,True
+38.06478,54549.07,431.11728,Female,New York,Home,Credit Card,True
+49.829636,145976.02,530.01373,Other,Dallas,Electronics,Credit Card,True
+52.020096,38336.582,180.82254,Other,Dallas,Home,UPI,True
+49.78568,82555.2,274.58615,Female,Houston,Clothing,UPI,False
+26.185287,30198.75,227.30621,Female,Los Angeles,Sports,UPI,True
+22.87619,48502.418,237.87242,Other,Philadelphia,Electronics,Debit Card,True
+41.149582,54282.746,260.84866,Other,San Antonio,Electronics,Debit Card,False
+61.775482,89968.3,272.06418,Other,San Jose,Beauty,PayPal,False
+43.480236,85545.86,512.22327,Female,Chicago,Clothing,PayPal,True
+49.67676,47992.73,0.0,Female,San Diego,Clothing,Debit Card,True
+26.881256,135119.03,147.86534,Male,San Diego,Electronics,Debit Card,False
+58.004635,112479.66,453.57553,Female,San Jose,Beauty,Credit Card,False
+60.797546,118780.734,604.2087,Female,Chicago,Clothing,PayPal,False
+49.985397,100048.87,136.26567,Male,Los Angeles,Sports,Credit Card,False
+44.29107,144322.42,1317.46,Female,San Diego,Electronics,UPI,False
+42.92451,36078.88,5.796924,Other,Phoenix,Clothing,UPI,False
+23.685062,67544.78,531.1932,Female,Los Angeles,Beauty,UPI,False
+39.70481,100647.98,776.97565,Other,New York,Sports,PayPal,True
+60.75819,70583.18,345.44855,Other,San Diego,Home,Credit Card,True
+54.2841,56799.59,13.958353,Other,Philadelphia,Sports,Credit Card,False
+39.197098,46423.29,116.060295,Other,San Antonio,Sports,Credit Card,False
+33.051125,60953.14,401.29987,Female,San Diego,Electronics,PayPal,True
+39.99379,40750.5,69.17956,Female,New York,Sports,UPI,False
+36.367878,34636.61,212.47392,Other,New York,Sports,UPI,False
+41.20939,106416.9,137.0774,Female,Los Angeles,Clothing,PayPal,False
+51.49541,129285.11,1113.7671,Female,New York,Beauty,PayPal,False
+42.914,45161.152,172.34488,Male,Dallas,Clothing,Debit Card,False
+19.970387,70129.52,602.11176,Male,Houston,Beauty,Credit Card,True
+59.650288,82424.445,234.76265,Other,San Antonio,Beauty,Debit Card,True
+36.71545,123469.12,144.58179,Female,Dallas,Home,Credit Card,False
+34.675037,81839.52,323.8756,Other,Dallas,Home,UPI,True
+51.6988,124776.664,567.4287,Female,Houston,Home,UPI,True
+35.155426,115261.14,617.5197,Other,San Antonio,Beauty,Credit Card,True
+40.2755,77051.37,115.114944,Female,Phoenix,Sports,UPI,False
+22.017204,109262.49,310.5196,Female,Phoenix,Home,Credit Card,False
+61.33283,99248.58,239.06062,Male,Los Angeles,Clothing,Debit Card,True
+29.926449,126189.97,1025.4357,Female,San Diego,Beauty,UPI,False
+54.6643,138009.17,75.03288,Male,Phoenix,Clothing,UPI,False
+36.78692,107840.07,656.9808,Other,Dallas,Sports,Credit Card,True
+24.31013,68121.54,489.95773,Male,San Antonio,Beauty,Credit Card,False
+64.116776,150776.33,236.2096,Male,Houston,Beauty,UPI,False
+49.977406,149106.84,120.53365,Other,San Antonio,Home,PayPal,False
+63.84341,112421.52,265.2104,Female,Los Angeles,Home,PayPal,True
+29.248083,69927.03,390.37296,Female,San Jose,Electronics,UPI,False
+63.09135,50282.71,106.382965,Other,San Diego,Clothing,UPI,True
+40.008915,85984.72,664.9726,Female,New York,Beauty,Credit Card,True
+60.21557,130813.9,840.69604,Female,Philadelphia,Sports,PayPal,False
+57.00768,46356.863,234.30513,Male,Phoenix,Sports,Credit Card,False
+34.14036,85844.766,44.543518,Female,Dallas,Clothing,Debit Card,False
+63.37526,70923.41,464.1716,Male,San Diego,Sports,PayPal,True
+51.01308,88379.87,599.2204,Female,San Antonio,Electronics,Debit Card,False
+49.689137,33182.562,210.54771,Other,Dallas,Home,UPI,True
+21.821964,110021.914,707.14594,Other,Houston,Home,Debit Card,False
+24.50197,115184.54,386.61935,Other,San Jose,Electronics,Debit Card,True
+50.35729,126117.77,1130.9235,Other,Chicago,Sports,UPI,False
+46.73963,90497.06,780.6219,Male,Phoenix,Sports,PayPal,False
+31.064602,52738.91,151.8283,Male,San Antonio,Sports,UPI,True
+24.062792,101512.55,503.09882,Other,Houston,Electronics,UPI,True
+31.945246,118752.09,999.53845,Male,San Jose,Beauty,PayPal,True
+19.686617,55744.973,495.57614,Male,Dallas,Electronics,Credit Card,False
+47.170673,136853.6,834.9024,Male,Houston,Clothing,Debit Card,True
+37.2687,120239.06,586.443,Male,San Antonio,Clothing,Debit Card,False
+65.76393,132833.73,315.06668,Male,San Antonio,Sports,Credit Card,False
+30.04436,75194.234,399.27078,Other,Philadelphia,Sports,UPI,True
+19.259825,96388.74,14.320685,Female,San Antonio,Clothing,UPI,False
+62.44559,106359.09,272.58646,Male,Dallas,Beauty,Credit Card,True
+34.408623,101059.41,765.7996,Other,Chicago,Electronics,Credit Card,False
+51.32662,109170.02,514.95715,Female,Philadelphia,Home,Debit Card,True
+36.93361,60496.715,297.88617,Female,San Antonio,Clothing,Credit Card,False
+61.058628,84563.164,429.0799,Female,Los Angeles,Home,PayPal,True
+59.103943,151655.27,1317.4115,Other,Philadelphia,Sports,PayPal,False
+56.206524,128810.25,998.30457,Male,Dallas,Home,UPI,True
+35.60574,122924.54,1284.3405,Female,Dallas,Sports,Credit Card,True
+25.443916,34437.535,113.55949,Female,San Diego,Home,Debit Card,False
+45.34991,51501.797,445.0621,Female,New York,Home,Credit Card,False
+43.2402,90362.625,136.54582,Other,Chicago,Sports,Credit Card,True
+30.921719,140949.8,447.53604,Female,Dallas,Home,Debit Card,False
+58.599327,137980.31,770.11334,Female,Los Angeles,Clothing,Debit Card,True
+32.363308,44976.95,167.67499,Other,New York,Sports,PayPal,True
+37.76352,62021.562,32.47488,Male,San Diego,Sports,PayPal,True
+32.442368,26080.678,213.53372,Female,San Antonio,Beauty,Credit Card,False
+26.257948,120799.31,938.7026,Female,San Diego,Electronics,UPI,True
+48.14094,67658.12,227.96864,Female,Los Angeles,Electronics,Credit Card,False
+51.269287,126189.71,546.3742,Other,Chicago,Electronics,PayPal,False
+46.13484,132153.0,1042.033,Male,Phoenix,Beauty,PayPal,True
+43.85036,91494.17,234.47537,Female,Dallas,Electronics,UPI,False
+23.340347,145170.31,530.56805,Female,San Jose,Clothing,UPI,False
+23.250504,30929.94,209.92316,Female,Houston,Clothing,UPI,True
+38.6027,120629.02,454.99307,Female,Philadelphia,Clothing,Debit Card,False
+33.814674,94240.66,567.4504,Other,New York,Home,Credit Card,True
+49.103874,37407.266,194.11069,Female,Los Angeles,Beauty,UPI,False
+33.37348,101172.37,0.0,Other,New York,Electronics,UPI,True
+24.859066,123648.19,678.8105,Male,San Antonio,Home,PayPal,False
+58.657764,80816.984,397.3547,Female,Philadelphia,Clothing,Debit Card,True
+23.204361,138841.72,1356.2805,Female,Los Angeles,Electronics,Credit Card,True
+38.971172,42159.812,131.41861,Male,San Diego,Electronics,UPI,True
+38.998627,94575.1,970.06665,Other,Philadelphia,Sports,PayPal,True
+25.027864,53252.64,29.820442,Male,New York,Clothing,Credit Card,True
+50.029705,117100.24,198.11578,Male,San Antonio,Electronics,Debit Card,True
+36.806835,124956.6,683.4586,Female,San Antonio,Electronics,PayPal,True
+31.449282,129944.414,732.0151,Female,San Diego,Electronics,Debit Card,False
+31.849298,75096.805,474.3408,Male,New York,Sports,Credit Card,True
+58.036533,136408.58,984.06287,Male,Philadelphia,Beauty,PayPal,True
+53.482613,75430.77,348.20108,Other,San Jose,Sports,UPI,True
+50.89111,41345.465,240.96895,Female,Dallas,Electronics,PayPal,False
+51.255394,36831.844,246.44197,Male,San Antonio,Sports,UPI,True
+21.189703,58377.008,430.71387,Female,Chicago,Sports,Credit Card,True
+59.989357,137644.08,984.28485,Other,Houston,Clothing,PayPal,False
+44.10052,130574.164,1259.4224,Male,Philadelphia,Beauty,UPI,True
+38.85151,122883.75,975.8881,Other,San Diego,Home,Debit Card,True
+27.550707,93098.77,415.27087,Female,San Diego,Clothing,Debit Card,True
+54.492302,42601.63,395.45056,Other,San Antonio,Home,PayPal,True
+52.856598,43383.895,183.48305,Female,San Antonio,Electronics,Debit Card,True
+54.448997,54228.88,319.63904,Male,Philadelphia,Electronics,PayPal,True
+58.740284,143612.64,788.7258,Other,Los Angeles,Electronics,UPI,False
+30.08915,37897.316,310.12674,Male,Phoenix,Beauty,Credit Card,True
+27.672813,124022.14,76.6982,Male,Philadelphia,Clothing,PayPal,False
+46.3933,86457.016,697.12085,Male,Phoenix,Home,PayPal,False
+22.423119,131829.84,464.3324,Female,Phoenix,Clothing,UPI,False
+37.556713,100367.055,204.06808,Female,San Antonio,Home,PayPal,True
+29.60639,126098.055,962.5014,Other,Houston,Home,Credit Card,False
+43.59951,125875.54,630.1523,Other,Philadelphia,Electronics,UPI,True
+17.120281,119787.63,972.297,Male,San Antonio,Home,PayPal,False
+25.595165,94105.11,84.90412,Other,Chicago,Beauty,Credit Card,False
+42.18158,78099.81,607.7435,Female,Dallas,Home,PayPal,False
+21.150805,127381.32,308.12054,Female,Dallas,Home,UPI,False
+53.979248,56482.297,609.46375,Other,San Jose,Sports,PayPal,False
+26.812935,152525.7,561.58875,Male,Dallas,Home,UPI,False
+55.066746,121086.98,346.70917,Other,Dallas,Beauty,PayPal,True
+54.81838,69206.46,126.66912,Other,San Jose,Sports,UPI,False
+61.219242,105694.695,918.4359,Female,New York,Home,PayPal,False
+25.550905,43594.055,215.8144,Male,San Diego,Home,Credit Card,False
+37.060097,79572.51,573.3065,Other,Houston,Beauty,Debit Card,False
+41.74672,62398.785,461.5743,Other,San Jose,Electronics,UPI,True
+24.182596,66246.19,294.49646,Female,Philadelphia,Clothing,Credit Card,True
+66.09382,97531.805,708.2669,Male,Los Angeles,Electronics,UPI,True
+47.415005,49567.562,271.15265,Other,Dallas,Home,UPI,True
+55.33995,89279.516,545.2502,Other,San Diego,Sports,Debit Card,True
+49.41723,48655.742,124.916855,Female,Chicago,Beauty,UPI,True
+47.247128,97548.375,104.495224,Female,Dallas,Home,Debit Card,False
+22.896664,57098.906,177.84564,Female,New York,Beauty,Debit Card,True
+39.351524,70993.19,704.4031,Male,San Antonio,Sports,Credit Card,True
+25.528936,119989.43,829.7056,Male,Phoenix,Home,Credit Card,True
+64.15467,101885.01,0.0,Other,Philadelphia,Electronics,Credit Card,False
+51.304558,116083.484,305.49258,Male,Chicago,Sports,UPI,True
+28.745142,92390.6,574.22455,Female,San Diego,Electronics,PayPal,True
+54.300083,103811.125,695.5527,Female,San Antonio,Sports,PayPal,False
+66.122894,142050.3,710.04004,Other,Los Angeles,Clothing,Credit Card,False
+52.50561,122737.36,76.24353,Other,Los Angeles,Clothing,Credit Card,True
+49.015682,89328.64,845.06323,Male,Houston,Electronics,Credit Card,False
+32.74201,58229.742,500.4108,Other,San Diego,Beauty,PayPal,True
+57.553524,37203.38,250.19646,Female,Philadelphia,Clothing,Debit Card,False
+24.201557,150972.06,784.9663,Other,New York,Home,Debit Card,True
+45.087112,56093.105,105.57912,Male,Phoenix,Electronics,Debit Card,True
+45.75935,129492.1,228.42932,Other,Chicago,Clothing,Credit Card,True
+38.11288,73398.15,0.0,Male,San Antonio,Home,PayPal,False
+19.86377,42009.734,0.0,Other,Dallas,Clothing,UPI,False
+21.953613,66746.99,102.4,Female,Dallas,Sports,Credit Card,False
+18.079723,85902.02,512.54944,Male,San Antonio,Beauty,Credit Card,True
+46.2795,111341.07,852.1664,Female,Chicago,Sports,UPI,True
+61.7143,83593.75,143.4279,Male,Philadelphia,Beauty,Debit Card,True
+55.973644,78777.836,779.685,Female,San Diego,Electronics,UPI,True
+60.814102,69700.914,458.4757,Male,New York,Electronics,UPI,True
+61.292515,28123.645,456.63422,Female,Philadelphia,Clothing,PayPal,True
+27.751352,130964.03,653.1384,Male,Houston,Electronics,UPI,True
+25.128876,120562.59,840.0546,Male,Dallas,Clothing,PayPal,False
+56.93363,72300.34,673.855,Other,San Diego,Home,Debit Card,False
+38.48317,84809.0,351.50653,Other,Philadelphia,Electronics,Debit Card,False
+52.87388,87020.17,97.061356,Male,Chicago,Sports,PayPal,False
+55.569717,43931.06,255.05731,Female,Los Angeles,Beauty,Credit Card,True
+58.372948,31427.773,193.7485,Female,San Jose,Home,Credit Card,True
+63.83868,29858.213,0.0,Male,Houston,Electronics,Credit Card,True
+66.11572,38055.605,149.91154,Other,Philadelphia,Clothing,UPI,True
+57.64015,51809.438,210.93167,Female,Philadelphia,Clothing,Debit Card,False
+66.700294,121557.83,838.82886,Male,San Antonio,Sports,Credit Card,True
+51.904934,101808.695,441.98685,Other,Los Angeles,Sports,Credit Card,True
+53.548428,51389.215,345.83188,Male,Houston,Beauty,Debit Card,False
+27.526405,143206.8,894.4876,Other,Dallas,Beauty,Debit Card,True
+21.76098,86425.016,515.361,Other,New York,Electronics,UPI,False
+35.713444,50058.973,361.9643,Female,Phoenix,Sports,Credit Card,True
+27.244192,75008.2,635.482,Other,New York,Home,Credit Card,False
+32.03695,66617.016,128.27846,Other,New York,Clothing,PayPal,False
+38.69029,64692.707,227.27989,Female,San Diego,Electronics,Debit Card,False
+47.92972,117774.125,65.845604,Female,Philadelphia,Beauty,Credit Card,False
+48.05803,80064.48,771.1945,Other,Philadelphia,Beauty,Debit Card,False
+55.16831,104551.23,554.9103,Male,Houston,Clothing,Credit Card,True
+21.606005,43561.105,108.82483,Other,Los Angeles,Electronics,Debit Card,False
+18.662857,73530.97,466.84113,Female,Los Angeles,Clothing,Credit Card,True
+36.189762,138283.52,437.36243,Male,San Jose,Sports,Debit Card,True
+48.64793,82369.4,173.64215,Male,San Jose,Beauty,UPI,True
+54.41874,111910.305,958.4025,Female,Dallas,Home,Debit Card,True
+23.592112,31872.004,285.48044,Male,San Jose,Beauty,Debit Card,False
+38.202587,88958.78,296.34497,Other,Phoenix,Clothing,Debit Card,True
+16.500486,38503.332,42.821503,Other,San Antonio,Beauty,Credit Card,False
+49.256344,150354.1,839.389,Female,New York,Sports,Credit Card,False
+36.68149,87415.74,782.1519,Other,Phoenix,Clothing,Credit Card,True
+48.405514,137984.73,1098.2882,Female,San Antonio,Home,Debit Card,True
+55.106537,164248.83,378.9116,Female,Philadelphia,Clothing,UPI,False
+57.249695,131306.17,513.3636,Female,Los Angeles,Home,PayPal,False
+37.104744,49882.92,41.40436,Male,San Diego,Electronics,Credit Card,True
+61.61034,55266.43,229.87888,Male,Houston,Beauty,PayPal,False
+29.411892,89021.516,68.600075,Male,Philadelphia,Electronics,UPI,False
+19.098082,95502.91,183.14056,Male,San Diego,Clothing,PayPal,True
+14.898809,54832.703,139.97481,Male,San Antonio,Home,Debit Card,True
+55.132378,52754.773,151.7226,Male,Chicago,Home,Debit Card,False
+62.056877,61771.582,73.60767,Female,Philadelphia,Clothing,UPI,False
+36.407063,74366.49,571.78625,Other,Chicago,Beauty,UPI,True
+28.741655,57728.9,462.5297,Male,Houston,Clothing,UPI,False
+44.378815,114178.11,478.77344,Other,Houston,Electronics,Debit Card,False
+26.718836,62767.35,179.34082,Other,Phoenix,Clothing,UPI,True
+59.010303,51059.133,115.43951,Other,Los Angeles,Electronics,Debit Card,False
+58.742165,131857.33,736.23456,Male,San Diego,Home,Debit Card,False
+67.30582,79227.94,362.63983,Female,San Diego,Sports,Credit Card,False
+57.868977,138932.06,635.6127,Male,Houston,Clothing,Debit Card,True
+34.310642,85906.81,0.0,Female,San Antonio,Beauty,Debit Card,False
+32.632885,112039.555,62.697117,Male,Phoenix,Sports,PayPal,True
+54.618813,44595.938,186.81873,Other,Philadelphia,Home,UPI,True
+44.78388,87603.695,415.1542,Other,Philadelphia,Electronics,UPI,True
+25.450531,105064.25,232.18413,Other,Los Angeles,Home,Debit Card,False
+49.112446,91891.625,514.14825,Male,Phoenix,Clothing,Credit Card,True
+20.455704,86173.64,0.0,Male,Philadelphia,Clothing,PayPal,True
+35.911648,126847.23,966.6812,Other,Phoenix,Beauty,Debit Card,False
+16.855589,130618.95,330.5312,Female,San Antonio,Sports,Credit Card,False
+59.35104,104567.14,916.34906,Male,San Antonio,Clothing,PayPal,True
+45.18013,53481.707,224.42435,Other,Dallas,Sports,Debit Card,True
+38.8721,136666.9,221.27132,Other,San Antonio,Clothing,UPI,False
+51.764767,37528.96,20.002493,Other,Chicago,Home,Credit Card,False
+51.402527,134555.97,410.09073,Female,Los Angeles,Sports,UPI,True
+37.31572,109095.27,0.0,Male,Chicago,Clothing,PayPal,False
+42.91339,53261.2,469.2868,Male,Dallas,Sports,Debit Card,False
+21.981792,75171.17,574.88336,Female,Phoenix,Electronics,Debit Card,False
+58.576218,101109.445,271.03296,Other,San Jose,Sports,Credit Card,True
+34.109077,50292.53,368.8723,Female,Phoenix,Clothing,Debit Card,True
+59.76457,119435.32,188.10764,Other,Houston,Beauty,Credit Card,False
+38.31009,128074.19,1337.0144,Female,Chicago,Electronics,Credit Card,False
+49.831215,125223.05,128.02005,Male,San Jose,Clothing,PayPal,False
+61.663506,118045.516,656.76886,Male,San Jose,Home,Debit Card,False
+31.122395,48162.81,20.116999,Male,San Diego,Electronics,UPI,True
+55.63291,68972.26,562.84924,Female,San Diego,Electronics,Credit Card,True
+36.059456,110520.58,1039.2139,Female,Philadelphia,Beauty,UPI,True
+35.798134,70909.64,105.27075,Other,San Antonio,Sports,UPI,True
+62.675446,93980.33,169.07547,Other,New York,Clothing,Debit Card,False
+58.754486,88515.78,320.24265,Male,Houston,Sports,UPI,True
+38.153667,37924.27,294.2564,Male,Philadelphia,Sports,UPI,True
+35.783424,62981.65,303.71494,Male,San Antonio,Electronics,UPI,True
+34.655365,132014.45,487.7516,Male,San Antonio,Electronics,Debit Card,False
+26.158293,114663.62,1145.8433,Other,San Diego,Clothing,UPI,True
+19.623852,96678.92,645.2814,Male,San Diego,Clothing,Credit Card,False
+29.097908,45838.47,407.29385,Other,Los Angeles,Clothing,Credit Card,True
+48.574566,131984.34,484.70343,Male,New York,Home,Debit Card,False
+38.00622,47267.434,251.9115,Male,Dallas,Clothing,UPI,True
+55.730637,119309.95,714.8251,Other,Los Angeles,Sports,Credit Card,False
+23.477896,122130.48,110.41722,Female,Houston,Beauty,PayPal,True
+26.823027,56183.926,81.13003,Male,New York,Home,Debit Card,True
+34.75151,143860.56,132.17448,Other,Chicago,Clothing,PayPal,False
+50.31299,48032.355,276.58322,Female,Dallas,Sports,Debit Card,False
+50.799248,46452.51,157.29738,Male,Philadelphia,Home,Debit Card,True
+44.82708,122305.51,380.9671,Other,San Antonio,Sports,Debit Card,True
+56.909412,135378.47,261.36243,Other,San Diego,Electronics,Credit Card,False
+46.13986,72354.85,620.5207,Male,Los Angeles,Home,Debit Card,False
+23.284088,126597.305,292.93057,Other,Philadelphia,Clothing,PayPal,True
+60.108856,120579.56,1105.463,Female,San Diego,Electronics,PayPal,False
+57.82917,146818.52,957.68494,Female,Dallas,Clothing,Credit Card,True
+22.757208,123961.84,846.4193,Other,San Antonio,Home,PayPal,True
+58.88755,49695.273,81.92536,Female,San Antonio,Home,Debit Card,True
+39.011734,45470.832,214.66403,Male,San Jose,Sports,PayPal,True
+32.283154,77257.14,387.0192,Male,Dallas,Sports,PayPal,True
+30.06955,129639.8,995.5459,Female,Houston,Clothing,Credit Card,True
+67.81222,108422.164,756.2153,Other,San Antonio,Beauty,PayPal,True
+42.70245,129239.89,5.1568575,Female,Los Angeles,Clothing,UPI,True
+24.960001,49370.49,53.555996,Other,Dallas,Clothing,Debit Card,False
+44.023697,113147.305,588.1073,Male,Houston,Clothing,Debit Card,True
+55.6722,69041.72,288.25232,Other,San Diego,Clothing,PayPal,False
+25.547113,65368.863,339.98096,Male,Philadelphia,Sports,UPI,False
+27.163578,130728.72,1334.3613,Female,New York,Sports,UPI,True
+40.065884,107632.164,484.4554,Other,Chicago,Home,UPI,False
+38.861374,102808.86,249.72606,Other,San Jose,Sports,Credit Card,False
+25.272717,141415.47,664.6336,Male,San Jose,Electronics,Credit Card,False
+46.769634,83515.875,761.0759,Female,Phoenix,Sports,Credit Card,True
+60.63266,111092.91,106.563896,Male,San Antonio,Sports,Debit Card,False
+42.63972,72983.56,526.7871,Other,Philadelphia,Beauty,UPI,True
+58.657135,39402.613,242.44629,Female,Houston,Clothing,UPI,True
+39.90231,107340.53,847.132,Female,Chicago,Home,UPI,True
+31.409525,60993.168,419.9421,Male,Philadelphia,Electronics,Credit Card,True
+60.74559,130107.914,1211.6448,Female,San Jose,Electronics,Debit Card,False
+31.368053,138270.72,635.6917,Other,Phoenix,Beauty,UPI,True
+57.36184,73607.195,568.1871,Male,Los Angeles,Electronics,PayPal,True
+42.75189,109370.305,225.96538,Male,San Diego,Home,Credit Card,False
+52.533527,31712.834,0.0,Other,San Antonio,Beauty,UPI,True
+62.69511,91059.54,265.9165,Male,Chicago,Clothing,Debit Card,False
+28.22828,106605.73,806.989,Female,San Jose,Clothing,Debit Card,True
+19.745213,116972.31,180.95807,Male,Dallas,Sports,UPI,True
+54.77754,69381.54,117.07052,Other,Philadelphia,Electronics,PayPal,True
+37.31035,36289.68,152.78662,Female,San Diego,Electronics,Debit Card,True
+37.363266,124911.59,1219.5637,Other,San Jose,Sports,Credit Card,True
+51.23116,137944.77,0.0,Other,Dallas,Home,UPI,False
+39.364395,113067.84,545.25433,Female,Philadelphia,Clothing,Debit Card,False
+61.568512,102297.32,320.8421,Female,Philadelphia,Clothing,UPI,True
+49.498333,140113.61,1051.6588,Other,Chicago,Electronics,Credit Card,False
+67.68485,131781.55,1000.7114,Male,San Diego,Beauty,UPI,False
+58.197327,61778.594,129.03287,Other,San Antonio,Electronics,PayPal,True
+65.187935,69118.48,486.49738,Male,New York,Sports,UPI,True
+40.053635,82239.125,599.34216,Other,Los Angeles,Clothing,PayPal,True
+63.15421,52333.04,388.73178,Male,New York,Electronics,Debit Card,False
+24.244461,66785.78,547.69806,Other,Dallas,Clothing,UPI,True
+50.58389,118848.36,655.99097,Male,Houston,Clothing,Credit Card,False
+46.543385,124088.97,0.0,Other,San Antonio,Beauty,Debit Card,False
+62.255703,106390.15,841.7266,Other,Los Angeles,Clothing,UPI,True
+61.31328,66947.01,698.20935,Other,San Jose,Clothing,Credit Card,False
+67.556206,126640.664,985.8299,Female,New York,Sports,Debit Card,True
+30.956347,42204.77,5.572427,Male,Phoenix,Clothing,Debit Card,True
+54.228092,75041.13,145.64558,Female,Phoenix,Beauty,Credit Card,False
+25.641506,106282.07,557.7598,Female,San Antonio,Home,PayPal,True
+49.897137,118617.07,550.4475,Other,Los Angeles,Sports,UPI,False
+33.936787,55890.656,432.24515,Female,Houston,Sports,Credit Card,True
+53.61159,70925.1,299.0341,Other,Dallas,Beauty,PayPal,False
+53.9562,123807.41,98.62877,Other,Dallas,Sports,Debit Card,False
+33.079983,117134.64,1041.183,Male,Philadelphia,Clothing,PayPal,True
+61.748745,114228.09,164.52086,Male,San Diego,Sports,Debit Card,True
+21.39947,100916.26,374.99207,Male,San Antonio,Beauty,PayPal,False
+21.49384,86417.87,671.2603,Other,Houston,Beauty,UPI,False
+24.571316,58959.15,445.8102,Other,New York,Home,UPI,True
+56.21287,46806.96,103.1721,Female,Chicago,Home,Credit Card,True
+59.615837,63640.07,411.6759,Male,Philadelphia,Beauty,Debit Card,True
+41.69968,79369.51,519.91296,Male,Houston,Electronics,Credit Card,False
+28.417078,32282.96,10.171959,Male,Philadelphia,Clothing,UPI,True
+63.465973,128949.06,573.57214,Female,Los Angeles,Beauty,UPI,False
+37.295517,109859.04,716.73346,Male,Phoenix,Electronics,UPI,False
+33.088776,122036.43,896.3812,Other,New York,Electronics,Credit Card,False
+26.182695,84059.78,614.9794,Other,Houston,Electronics,UPI,False
+63.12158,126959.445,272.36224,Other,San Diego,Sports,UPI,False
+41.91836,107227.01,109.672005,Female,Los Angeles,Beauty,UPI,False
+57.231598,29123.598,131.58745,Other,Chicago,Sports,Credit Card,True
+23.438707,106581.83,952.6212,Female,San Jose,Sports,PayPal,True
+36.3287,52130.273,49.54362,Other,Philadelphia,Clothing,Debit Card,False
+23.782494,45061.78,472.08694,Other,Phoenix,Sports,Credit Card,False
+62.420094,28348.832,30.793753,Female,Chicago,Home,UPI,True
+51.55044,92013.17,592.2478,Other,Philadelphia,Electronics,Debit Card,True
+58.90632,131969.97,34.55679,Female,Houston,Clothing,PayPal,True
+29.078669,110450.41,597.96826,Other,Houston,Electronics,Debit Card,False
+25.009638,107437.71,386.02625,Female,Chicago,Sports,UPI,True
+36.96485,126844.91,593.97064,Other,Chicago,Beauty,PayPal,True
+56.872322,134963.48,417.3292,Male,Houston,Home,Debit Card,False
+30.898354,72253.78,656.50995,Female,San Antonio,Electronics,Debit Card,False
+30.900564,42562.45,186.87456,Other,Dallas,Sports,Credit Card,True
+55.861927,49388.863,187.72697,Female,Phoenix,Clothing,Debit Card,True
+15.401743,47118.098,237.88359,Male,San Antonio,Electronics,Credit Card,True
+50.212273,125353.766,998.6975,Other,San Diego,Clothing,PayPal,False
+51.788403,71908.09,469.01178,Male,New York,Clothing,Debit Card,True
+41.44384,143761.81,1064.2836,Other,Phoenix,Home,UPI,False
+52.50904,53602.273,0.0,Other,Dallas,Beauty,Credit Card,False
+40.334244,114496.47,739.7489,Other,Houston,Clothing,UPI,True
+33.304855,104381.48,884.43335,Female,Dallas,Home,PayPal,False
+52.438225,136008.4,1097.9172,Male,Phoenix,Electronics,PayPal,False
+36.59057,131947.83,70.618095,Male,San Jose,Clothing,UPI,True
+49.247158,22632.164,12.715551,Female,Dallas,Electronics,PayPal,False
+60.39376,103850.79,934.31506,Other,San Diego,Home,Credit Card,False
+20.903503,128848.94,211.62973,Other,New York,Electronics,Credit Card,False
+66.90888,103739.23,1047.1616,Male,San Jose,Electronics,UPI,True
+59.829666,156196.16,1122.3833,Male,Chicago,Electronics,PayPal,True
+48.17689,69799.57,654.5801,Female,San Diego,Sports,Debit Card,False
+24.850885,85239.69,586.1743,Male,Dallas,Electronics,Debit Card,False
+48.987453,77349.16,78.22363,Male,San Jose,Sports,UPI,True
+54.71343,87839.2,742.1607,Male,Dallas,Home,Credit Card,True
+44.03205,47029.152,184.80225,Female,San Antonio,Home,Credit Card,False
+40.13726,141494.69,1133.8263,Female,San Diego,Electronics,PayPal,False
+58.093372,45388.582,121.8649,Other,Chicago,Sports,Credit Card,False
+16.675667,45647.07,367.79846,Female,Houston,Beauty,PayPal,False
+36.447483,86429.58,309.935,Male,Chicago,Electronics,Credit Card,False
+56.06511,131361.45,736.55365,Male,San Diego,Home,UPI,True
+62.477768,56074.773,164.43779,Other,New York,Clothing,UPI,True
+65.29491,74559.84,579.0434,Male,Houston,Sports,UPI,True
+45.343056,86204.11,456.08676,Other,Chicago,Home,Credit Card,False
+26.776775,40774.047,425.88678,Female,Chicago,Clothing,PayPal,True
+56.421635,70150.234,0.0,Female,San Jose,Beauty,Credit Card,False
+51.382343,69443.88,160.84442,Male,Dallas,Clothing,Debit Card,True
+30.551468,51920.266,361.1722,Female,Houston,Sports,Debit Card,False
+60.62115,123571.8,1004.5155,Other,Dallas,Home,Debit Card,True
+47.640766,114528.6,773.7444,Male,San Diego,Clothing,PayPal,True
+35.673622,52966.26,422.8504,Male,New York,Beauty,Debit Card,True
+21.295298,75448.74,294.33884,Female,Houston,Sports,PayPal,False
+49.06463,43001.16,103.08768,Other,New York,Beauty,UPI,False
+44.486927,66554.02,600.58105,Other,San Antonio,Clothing,Credit Card,True
+30.668833,39184.785,93.899124,Male,Houston,Sports,PayPal,False
+36.117702,146898.33,894.62213,Female,Chicago,Home,UPI,False
+39.471893,70761.18,0.0,Other,New York,Beauty,Debit Card,False
+44.507126,125401.16,1234.485,Female,San Jose,Beauty,PayPal,True
+56.20181,64203.203,108.57809,Female,Los Angeles,Electronics,Debit Card,True
+20.917738,94597.98,1029.8157,Other,Houston,Clothing,UPI,True
+23.248775,101246.32,624.30646,Other,San Diego,Clothing,Debit Card,True
+27.465422,78809.13,271.0882,Other,San Jose,Beauty,PayPal,False
+43.81679,105547.586,818.80164,Other,San Antonio,Sports,Debit Card,True
+33.570606,100624.9,413.13086,Male,Phoenix,Electronics,Credit Card,True
+71.08429,125658.33,451.7149,Other,Dallas,Home,Credit Card,True
+44.10565,144741.58,620.91675,Other,San Antonio,Beauty,PayPal,False
+25.409037,47329.266,55.63387,Male,Dallas,Electronics,UPI,False
+38.062756,141293.75,517.311,Other,Phoenix,Beauty,Debit Card,True
+32.64653,58571.37,141.40451,Female,New York,Home,PayPal,False
+30.809448,128333.945,925.77734,Other,Houston,Beauty,PayPal,True
+57.110744,66564.14,454.71475,Female,San Antonio,Electronics,Debit Card,True
+40.51789,142607.81,899.28455,Female,New York,Electronics,PayPal,True
+65.87213,71190.01,235.86734,Male,Dallas,Beauty,Credit Card,True
+57.25309,77648.22,606.30194,Female,San Jose,Home,Debit Card,False
+34.03155,70712.125,179.76894,Other,San Antonio,Beauty,UPI,True
+64.44697,121990.37,497.90207,Male,San Diego,Electronics,UPI,False
+46.247463,63771.82,431.68567,Male,Houston,Home,UPI,True
+56.741093,70848.555,69.950066,Male,Chicago,Sports,PayPal,True
+31.849092,41203.438,284.0402,Female,San Antonio,Electronics,Debit Card,True
+47.181194,25013.582,93.20645,Male,Philadelphia,Beauty,Credit Card,True
+38.847084,135807.5,184.68787,Male,San Jose,Clothing,Credit Card,True
+54.388313,130118.19,1147.6267,Other,Dallas,Clothing,Debit Card,True
+54.312016,132402.08,540.70215,Male,Phoenix,Beauty,Debit Card,True
+34.22243,49243.297,355.96603,Male,Dallas,Electronics,Debit Card,True
+25.143515,107103.09,190.9959,Female,Phoenix,Clothing,Credit Card,True
+21.415993,67681.26,269.04056,Male,Philadelphia,Electronics,Credit Card,False
+65.14341,148496.02,1059.9922,Male,San Jose,Clothing,Credit Card,True
+22.875715,64749.562,323.46182,Female,Phoenix,Clothing,PayPal,True
+21.59579,100686.984,174.4305,Female,Dallas,Home,Debit Card,False
+28.22894,137491.08,1067.2957,Female,San Jose,Home,PayPal,True
+41.897923,97911.16,611.48364,Female,Los Angeles,Electronics,PayPal,False
+38.261127,44008.25,207.35173,Other,San Diego,Electronics,PayPal,False
+58.75405,80924.734,24.128647,Female,Chicago,Electronics,UPI,False
+32.418312,94359.25,345.89142,Other,San Antonio,Beauty,PayPal,True
+61.745857,72668.63,203.06445,Other,San Diego,Beauty,Debit Card,True
+42.250538,42457.258,237.93858,Female,Los Angeles,Beauty,Debit Card,False
+32.395706,80580.27,39.155983,Male,Philadelphia,Beauty,UPI,False
+24.867064,39130.785,363.5167,Female,Chicago,Home,UPI,False
+55.61058,149296.7,499.5041,Male,Houston,Electronics,Debit Card,True
+64.55314,113676.63,162.66972,Other,Phoenix,Sports,PayPal,True
+62.90426,56110.89,358.28613,Male,San Diego,Home,Credit Card,True
+32.288803,86638.03,105.60471,Male,Los Angeles,Electronics,UPI,True
+27.406002,93929.72,553.52625,Male,Chicago,Home,UPI,False
+62.35959,63879.13,185.36469,Other,San Jose,Beauty,Credit Card,True
+18.970896,147639.67,953.5954,Other,Chicago,Home,UPI,True
+51.280983,143742.11,567.59247,Female,Chicago,Electronics,PayPal,True
+41.1052,45381.58,112.67606,Male,Dallas,Clothing,Debit Card,True
+40.150967,109257.695,43.526703,Male,Chicago,Beauty,Credit Card,False
+48.047443,64416.445,382.659,Female,San Antonio,Clothing,Debit Card,False
+55.54938,74753.68,163.64984,Male,Los Angeles,Electronics,PayPal,True
+23.126059,62465.99,134.61269,Other,Los Angeles,Electronics,Debit Card,True
+33.96201,58890.62,229.19041,Other,Chicago,Clothing,PayPal,True
+49.78763,103435.44,85.880486,Female,San Jose,Beauty,PayPal,True
+37.60067,25703.738,334.36505,Other,San Antonio,Beauty,Debit Card,False
+43.03454,121754.59,530.0084,Male,Los Angeles,Home,UPI,True
+49.178715,130968.58,987.08276,Male,San Jose,Sports,PayPal,False
+40.523834,48472.14,101.33958,Female,Los Angeles,Electronics,Debit Card,True
+58.602394,113174.04,143.49689,Other,San Jose,Beauty,UPI,False
+27.924715,69358.0,127.87349,Other,San Antonio,Electronics,UPI,True
+27.642513,118243.414,648.29266,Male,San Jose,Beauty,PayPal,True
+24.332779,125194.53,974.43384,Other,Los Angeles,Sports,PayPal,False
+36.515877,63226.17,438.1516,Male,Chicago,Home,PayPal,False
+18.543905,42127.914,71.496895,Female,Phoenix,Sports,PayPal,False
+53.685486,55028.684,347.17563,Other,San Diego,Electronics,PayPal,False
+41.10426,86439.336,809.82324,Other,Chicago,Beauty,Credit Card,False
+44.196617,55652.965,298.172,Other,Houston,Electronics,Debit Card,True
+57.893753,123494.56,305.64774,Other,New York,Clothing,Credit Card,False
+45.607468,51278.047,272.52603,Male,Philadelphia,Sports,UPI,True
+42.409866,80635.73,289.3715,Other,San Diego,Clothing,Credit Card,True
+63.52954,42877.66,330.4516,Other,San Antonio,Home,UPI,False
+21.319407,68902.49,131.02301,Other,Houston,Clothing,PayPal,False
+33.520195,101671.83,106.20335,Male,San Diego,Home,Credit Card,True
+51.33584,14097.186,191.7854,Female,New York,Home,Debit Card,False
+33.682697,41419.87,72.70775,Male,Los Angeles,Sports,PayPal,True
+26.431604,50866.0,180.81319,Female,Los Angeles,Home,UPI,True
+49.355114,53925.926,429.38385,Female,Los Angeles,Electronics,Credit Card,False
+44.7817,138989.88,402.17438,Male,Philadelphia,Sports,UPI,True
+55.00514,114261.8,960.2212,Other,San Diego,Home,UPI,True
+51.501904,132496.02,1208.98,Male,Los Angeles,Beauty,Debit Card,True
+61.036037,144058.89,1313.2147,Male,Phoenix,Sports,Debit Card,False
+24.494646,81319.695,786.27985,Male,San Antonio,Home,Debit Card,True
+21.760042,98910.74,446.29156,Other,Los Angeles,Electronics,Debit Card,True
+39.35369,123992.18,625.61426,Male,San Jose,Sports,Debit Card,False
+33.457832,61346.15,525.2992,Other,New York,Home,PayPal,True
+36.66963,144732.64,419.64648,Male,San Diego,Clothing,UPI,True
+49.78947,80567.695,654.31714,Female,Dallas,Home,Debit Card,True
+45.456738,95737.82,271.23615,Other,San Jose,Clothing,UPI,True
+37.064346,144383.7,869.25323,Other,Phoenix,Home,Debit Card,True
+24.96427,43161.434,259.87674,Other,Los Angeles,Electronics,UPI,True
+60.072273,80157.84,442.52606,Male,Phoenix,Sports,Debit Card,True
+50.046608,96330.09,368.49734,Male,Philadelphia,Electronics,PayPal,True
+46.27437,160266.62,1188.1128,Other,San Antonio,Beauty,UPI,True
+46.794266,70457.305,236.96115,Male,Phoenix,Home,UPI,False
+17.846344,141245.89,1290.228,Male,New York,Home,Debit Card,True
+56.354206,127645.23,994.42786,Female,Philadelphia,Clothing,UPI,True
+57.093422,85998.625,201.59402,Other,San Antonio,Electronics,UPI,True
+48.72206,76541.46,664.68304,Male,Los Angeles,Home,Debit Card,False
+38.56885,64946.438,335.4098,Male,Dallas,Electronics,UPI,False
+55.315506,55253.727,426.55057,Male,Los Angeles,Electronics,Credit Card,False
+22.707796,103267.75,910.50867,Male,New York,Sports,Debit Card,False
+19.96587,125246.766,887.2897,Female,Houston,Clothing,Debit Card,True
+37.899044,52893.453,378.97244,Male,San Antonio,Home,Credit Card,False
+18.912313,46796.2,264.96216,Other,San Antonio,Clothing,Debit Card,False
+53.044266,56556.24,142.2133,Other,Phoenix,Clothing,Credit Card,True
+47.91763,146954.61,537.2913,Male,Chicago,Electronics,UPI,True
+44.06538,48824.734,245.34758,Other,Phoenix,Electronics,UPI,False
+42.026684,118814.97,1019.7852,Male,Chicago,Clothing,Credit Card,True
+56.009563,94750.06,613.8244,Male,Los Angeles,Home,PayPal,False
+54.63638,115217.836,641.10425,Male,Dallas,Home,Credit Card,False
+60.983784,26351.008,235.03995,Other,Dallas,Clothing,Debit Card,False
+27.195667,146653.48,346.40573,Female,Chicago,Clothing,UPI,False
+32.079285,66609.32,399.06738,Male,Houston,Beauty,PayPal,False
+67.15744,126260.68,642.9892,Female,Houston,Electronics,PayPal,True
+29.196688,125738.34,950.7623,Other,Phoenix,Sports,UPI,True
+30.700092,124937.49,351.54285,Other,San Diego,Home,Credit Card,True
+55.707153,108345.65,381.8973,Female,San Jose,Electronics,UPI,False
+31.54065,106035.15,344.04968,Other,Los Angeles,Sports,Debit Card,True
+43.487503,61237.547,426.35242,Female,San Jose,Home,PayPal,False
+25.51595,43579.113,0.0,Male,San Antonio,Clothing,PayPal,True
+19.756968,63483.93,402.71826,Other,Chicago,Home,UPI,True
+40.532963,123579.55,0.0,Female,Houston,Electronics,PayPal,True
+49.06275,33304.45,157.59969,Male,Houston,Clothing,UPI,False
+53.51662,73394.33,600.08484,Other,Chicago,Beauty,UPI,False
+40.8434,132564.97,328.51767,Male,New York,Sports,UPI,True
+29.97622,94640.22,165.43832,Female,Philadelphia,Beauty,PayPal,True
+32.11288,119128.45,13.22418,Male,San Jose,Electronics,UPI,False
+29.30011,144106.22,1265.5634,Other,Dallas,Beauty,Credit Card,False
+62.38674,37019.652,0.0,Male,San Antonio,Home,PayPal,True
+39.553146,70100.68,46.86803,Female,San Diego,Beauty,Credit Card,False
+38.05031,136113.12,1313.9591,Female,Los Angeles,Home,Credit Card,True
+34.167236,39984.824,249.86969,Male,Los Angeles,Home,PayPal,True
+31.161654,35585.316,74.80646,Other,Dallas,Electronics,Credit Card,True
+15.99237,32400.521,89.91902,Female,Phoenix,Home,UPI,False
+34.850082,129253.25,213.55852,Male,San Jose,Beauty,PayPal,True
+47.771435,134772.23,280.35947,Other,Phoenix,Sports,Credit Card,True
+48.105175,72624.37,430.3293,Male,Philadelphia,Sports,Debit Card,True
+39.71298,139612.5,398.07483,Other,Philadelphia,Beauty,Debit Card,True
+60.48621,39348.81,72.22918,Female,New York,Clothing,Credit Card,False
+55.39276,136953.7,639.90735,Other,Philadelphia,Home,Debit Card,False
+40.5956,130183.72,678.6378,Male,Dallas,Clothing,Debit Card,True
+45.05974,82950.88,755.78015,Other,Houston,Clothing,UPI,False
+29.208338,62509.55,334.8409,Other,Dallas,Beauty,Debit Card,True
+46.0108,144051.34,116.90659,Male,Phoenix,Clothing,UPI,True
+33.70986,43312.48,251.79344,Other,San Diego,Clothing,Debit Card,True
+47.728664,40134.94,135.10085,Male,Chicago,Sports,UPI,False
+24.65973,81178.79,237.27736,Male,New York,Sports,UPI,True
+35.279747,40685.555,204.23732,Female,Phoenix,Beauty,PayPal,False
+27.233028,98413.38,159.20595,Male,Chicago,Clothing,Credit Card,True
+20.392138,112312.445,286.37494,Male,Philadelphia,Electronics,PayPal,True
+60.777042,144300.62,966.38,Female,San Antonio,Electronics,Debit Card,False
+49.92948,48052.35,137.26689,Male,New York,Home,PayPal,False
+22.223333,50689.816,262.24655,Male,Philadelphia,Sports,PayPal,False
+28.127947,80709.12,441.658,Other,Chicago,Home,UPI,True
+15.600324,120863.41,653.2578,Female,New York,Clothing,PayPal,False
+27.842482,121948.23,1021.1454,Male,San Jose,Electronics,Credit Card,True
+51.151257,136791.36,421.83102,Female,New York,Electronics,PayPal,True
+49.810074,98746.06,40.90006,Male,Los Angeles,Electronics,Credit Card,False
+45.094456,84089.71,635.29205,Other,San Diego,Sports,UPI,False
+49.21568,46483.703,282.6122,Female,Philadelphia,Electronics,UPI,True
+37.59139,123085.5,639.83203,Other,New York,Clothing,UPI,True
+58.86598,49017.266,152.49802,Female,Houston,Beauty,PayPal,False
+25.872087,126755.375,115.35087,Female,Los Angeles,Home,Credit Card,True
+37.743332,155655.7,1165.8724,Female,San Antonio,Beauty,UPI,True
+39.728306,50657.965,26.794878,Other,Philadelphia,Beauty,Credit Card,False
+45.814392,103996.68,1074.404,Female,Phoenix,Electronics,Credit Card,True
+61.43647,61683.445,340.8788,Male,Dallas,Home,Debit Card,False
+49.293465,65070.285,119.71064,Female,Chicago,Electronics,Credit Card,True
+33.753345,130573.92,809.772,Male,San Diego,Sports,Credit Card,False
+44.058647,114680.69,1063.4233,Male,Phoenix,Clothing,PayPal,True
+47.12702,118899.42,1010.9044,Male,Chicago,Home,Credit Card,True
